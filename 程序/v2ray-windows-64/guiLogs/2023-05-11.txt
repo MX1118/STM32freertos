@@ -1,0 +1,42 @@
+2023-05-11 19:29:13,168 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\Users\Administrator\Desktop\程序\v2ray-windows-64\v2rayN.exe
+2023-05-11 19:30:03,859 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2023-05-11 19:30:03,868 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2023-05-11 19:30:14,164 [9] INFO  Log1 - UpdateTaskRun
+2023-05-11 19:30:55,580 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2023-05-11 19:30:55,581 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2023-05-11 19:31:35,897 [1] DEBUG Log2 - 输入字符串的格式不正确。
+2023-05-11 19:31:35,897 [1] DEBUG Log2 - System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   在 v2rayN.Utils.ToInt(Object obj)
+2023-05-11 19:31:40,809 [1] INFO  Log1 - MyAppExit Begin
+2023-05-11 19:31:41,038 [1] INFO  Log1 - MyAppExit End
+2023-05-11 19:32:33,235 [1] INFO  Log1 - v2rayN start up | v2rayN - V5.39 - 2022/12/13 | C:\Users\Administrator\Desktop\程序\v2ray-windows-64\v2rayN.exe
+2023-05-11 19:33:07,023 [1] DEBUG Log2 - 发送请求时出错。
+2023-05-11 19:33:07,027 [1] DEBUG Log2 - System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 由于远程方已关闭传输流，身份验证失败。
+   在 System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 v2rayN.Base.HttpClientHelper.<GetAsync>d__5.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 v2rayN.Handler.DownloadHandle.<DownloadStringAsync>d__10.MoveNext()
+2023-05-11 19:33:07,040 [1] INFO  Log1 - StatusCode error: https://api.github.com/repos/v2fly/v2ray-core/releases
+2023-05-11 19:33:34,036 [4] INFO  Log1 - UpdateTaskRun
+2023-05-11 19:35:02,157 [1] INFO  Log1 - MyAppExit Begin
+2023-05-11 19:35:02,418 [1] INFO  Log1 - MyAppExit End

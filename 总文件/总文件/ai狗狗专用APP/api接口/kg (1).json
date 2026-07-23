@@ -1,0 +1,29 @@
+{
+  "type": "COMBINED",
+  "apiUrl": "https://api.yaohud.cn/api/music/kg",
+  "searchApiUrl": null,
+  "parseApiUrl": null,
+  "fieldMap": {
+    "artist": "singer",
+    "songName": "name",
+    "audioUrl": "play_url",
+    "coverUrl": "cover"
+  },
+  "searchFieldMap": null,
+  "parseFieldMap": null,
+  "requestParams": {
+    "keyword": "msg",
+    "index": "n"
+  },
+  "searchRequestParams": null,
+  "parseRequestParams": null,
+  "dataPath": null,
+  "extraRequestParams": {
+    "key": "OiuDtlzuSaC0zcNLqZU",
+    "quality": "128"
+  },
+  "extraSearchRequestParams": null,
+  "extraParseRequestParams": null,
+  "version": 1,
+  "remark": ""
+}

@@ -42,13 +42,14 @@ void SPI1_Init(void)
 u8 SPI1_ReadWrite(u8 TxData)
 {          
   // 等待发送缓冲区为空（TXE标志置位）
-  while (SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_TXE) == RESET){}
-	
-  // 通过SPI1发送一个字节数据
+  while (SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_TXE) == RESET)
+  {}
+ // 通过SPI1发送一个字节数据
   SPI_I2S_SendData(SPI1, TxData); 
 		
   // 等待接收缓冲区非空（RXNE标志置位）
-  while (SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_RXNE) == RESET){} 
+  while (SPI_I2S_GetFlagStatus(SPI1, SPI_I2S_FLAG_RXNE) == RESET)
+  {} 
  
   // 返回通过SPI1接收到的数据
   return SPI_I2S_ReceiveData(SPI1); 

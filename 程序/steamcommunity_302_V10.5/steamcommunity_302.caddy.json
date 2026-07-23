@@ -1,0 +1,72 @@
+https://steamcommunity.com:1442, www.steamcommunity.com:1442 {
+#tls self_signed
+tls steamcommunity.crt steamcommunity.key
+    # default/catchall
+    proxy / https://steamuserimages-a.akamaihd.net https://steamstore-a.akamaihd.net https://steamcommunity-a.akamaihd.net https://steampipe.akamaized.net https://eaassets-a.akamaihd.net https://humblebundle-a.akamaihd.net https://steamcommunity-a.akamaihd.net {
+    policy random
+    fail_timeout 5s
+    timeout 30s
+    transparent
+    header_upstream Host steamcommunity.com
+    #insecure_skip_verify
+    }
+}
+
+#http://:{8port0} {
+#redir / https://{host}{uri} 302
+#}
+
+
+https://store.steampowered.com:1442 {
+#tls self_signed
+tls steamcommunity.crt steamcommunity.key
+    # default/catchall
+    proxy / https://steamuserimages-a.akamaihd.net https://steamcdn-a.akamaihd.net https://steamstore-a.akamaihd.net https://steamcommunity-a.akamaihd.net https://steampipe.akamaized.net https://eaassets-a.akamaihd.net https://humblebundle-a.akamaihd.net https://steamcommunity-a.akamaihd.net {
+    policy random
+    fail_timeout 5s
+    timeout 30s
+    transparent
+    header_upstream Host store.steampowered.com
+    #insecure_skip_verify
+    }
+}
+
+https://api.steampowered.com:1442 {
+#tls self_signed
+tls steamcommunity.crt steamcommunity.key
+    # default/catchall
+    proxy / https://steamuserimages-a.akamaihd.net https://steamcdn-a.akamaihd.net https://steamstore-a.akamaihd.net https://steamcommunity-a.akamaihd.net https://steampipe.akamaized.net https://eaassets-a.akamaihd.net https://humblebundle-a.akamaihd.net https://steamcommunity-a.akamaihd.net {
+    policy random
+    fail_timeout 5s
+    timeout 30s
+    transparent
+    header_upstream Host api.steampowered.com
+    #insecure_skip_verify
+    }
+}
+
+https://steamcdn-a.akamaihd.net:1442 {
+#tls self_signed
+tls steamcommunity.crt steamcommunity.key
+    # default/catchall
+    proxy / https://steamuserimages-a.akamaihd.net https://steamstore-a.akamaihd.net https://steamcommunity-a.akamaihd.net https://steampipe.akamaized.net https://eaassets-a.akamaihd.net https://humblebundle-a.akamaihd.net https://steamcommunity-a.akamaihd.net {
+    policy random
+    fail_timeout 5s
+    timeout 30s
+    transparent
+    header_upstream Host steamcdn-a.akamaihd.net
+    #insecure_skip_verify
+    }
+}
+https://static3.cdn.ubi.com:1442 {
+#tls self_signed
+tls steamcommunity.crt steamcommunity.key
+    # default/catchall
+    proxy / https://static2.cdn.ubi.com {
+    fail_timeout 5s
+    timeout 30s
+    transparent
+    header_upstream Host static3.cdn.ubi.com
+    }
+}
+

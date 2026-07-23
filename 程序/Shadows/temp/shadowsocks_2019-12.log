@@ -1,0 +1,159 @@
+[2019-12-23 11:14:37] ShadowsocksR started on port 1080
+[2019-12-23 11:14:47] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:14:56] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:01] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:03] [Warn] Proxy server [洛杉矶G(45.15.131.142)] connection refused
+[2019-12-23 11:15:03] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 11:15:04] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:09] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:10] [Warn] Proxy server [东京B(89.31.125.120)] connection refused
+[2019-12-23 11:15:11] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:17] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 11:15:17] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:19] [Warn] Proxy server [洛杉矶H(2.56.175.192)] connection refused
+[2019-12-23 11:15:19] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:21] [Warn] Proxy server [东京D(45.66.134.240)] connection refused
+[2019-12-23 11:15:21] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:26] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 11:15:26] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:31] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:37] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 11:15:38] [Warn] Proxy server [东京C(81.90.190.5)] connection refused
+[2019-12-23 11:15:38] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 11:15:44] [Error] connect to update server error
+[2019-12-23 11:17:49] [Info] Connect www.google.com:443
+[2019-12-23 11:17:49] [Info] Direct connect www.gstatic.com:443
+[2019-12-23 11:17:49] [Info] Connect www.google.com:443
+[2019-12-23 11:17:49] [Info] Connect www.googleapis.com:443
+[2019-12-23 11:17:49] [Info] Direct connect www.gstatic.com:443
+[2019-12-23 11:17:49] [Info] Connect accounts.google.com:443
+[2019-12-23 11:17:50] [Info] Connect safebrowsing.google.com:443
+[2019-12-23 15:29:25] ShadowsocksR started on port 1080
+[2019-12-23 15:29:29] [Info] Connect steamcommunity.com:443
+[2019-12-23 15:29:34] [Info] Direct connect steamcommunity.com:443
+[2019-12-23 15:29:35] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 15:29:35] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-12-23 15:29:36] [Error] connect to update server error
+[2019-12-23 15:29:54] [Info] Disconnect steamcommunity.com:443
+[2019-12-23 15:29:54] [Info] Direct connect steamcommunity.com:443
+[2019-12-23 15:29:55] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-12-23 15:30:12] [Info] Direct connect steamcommunity.com:443
+[2019-12-23 15:30:13] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-12-23 15:30:18] [Info] Direct connect steamcommunity.com:443
+[2019-12-23 15:30:19] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-12-23 15:30:26] ShadowsocksR started on port 1080
+[2019-12-23 15:30:33] [Info] Connect steamcommunity.com:443
+[2019-12-23 15:30:36] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 15:30:37] [Error] connect to update server error
+[2019-12-23 15:31:11] [Info] Disconnect steamcommunity.com:443
+[2019-12-23 17:51:14] ShadowsocksR started on port 1080
+[2019-12-23 17:51:17] [Info] Connect www.google.com:443
+[2019-12-23 17:51:17] [Info] Connect www.google.com:443
+[2019-12-23 17:51:17] [Info] Connect www.google.com:443
+[2019-12-23 17:51:17] [Info] Connect www.google.com:443
+[2019-12-23 17:51:17] [Info] Connect www.google.com:443
+[2019-12-23 17:51:18] [Info] Connect www.google.com:443
+[2019-12-23 17:51:23] [Info] Connect www.google.com:443
+[2019-12-23 17:51:23] [Info] Connect www.google.com:443
+[2019-12-23 17:51:23] [Info] Connect www.google.com:443
+[2019-12-23 17:51:23] [Info] Connect www.google.com:443
+[2019-12-23 17:51:24] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 17:51:28] [Info] Connect www.google.com:443
+[2019-12-23 17:51:28] [Info] Connect www.google.com:443
+[2019-12-23 17:51:28] [Info] Connect www.google.com:443
+[2019-12-23 17:51:29] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:29] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:29] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:30] [Info] Connect www.google.com:443
+[2019-12-23 17:51:33] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:33] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:34] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:34] [Info] Connect accounts.google.com:443
+[2019-12-23 17:51:35] [Info] Connect clients2.googleusercontent.com:443
+[2019-12-23 17:51:35] [Info] Connect www.google.com:443
+[2019-12-23 17:51:40] [Info] Connect clients2.googleusercontent.com:443
+[2019-12-23 17:51:40] [Info] Connect www.google.com:443
+[2019-12-23 17:51:45] [Info] Connect clients2.googleusercontent.com:443
+[2019-12-23 17:51:45] [Info] Disconnect www.google.com:443
+[2019-12-23 17:51:46] [Info] Connect www.google.com:443
+[2019-12-23 17:51:50] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-12-23 17:51:51] [Info] Connect www.google.com:443
+[2019-12-23 17:51:55] [Info] Direct connect www.gstatic.com:443
+[2019-12-23 17:51:56] [Info] Connect apis.google.com:443
+[2019-12-23 17:51:56] [Info] Connect ogs.google.com:443
+[2019-12-23 17:51:57] [Info] Connect clients1.google.com:443
+[2019-12-23 17:51:59] [Info] Direct connect adservice.google.com:443
+[2019-12-23 17:52:12] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 17:52:12] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 17:52:13] [Error] connect to update server error
+[2019-12-23 17:52:17] [Info] Connect clients2.googleusercontent.com:443
+[2019-12-23 17:52:30] [Info] Direct connect crl.pki.goog:80
+[2019-12-23 17:52:56] [Info] Connect chrome.google.com:443
+[2019-12-23 17:53:26] [Info] Connect safebrowsing.google.com:443
+[2019-12-23 17:53:30] [Info] Direct connect r1---sn-bvn0o-fo1l.gvt1.com:80
+[2019-12-23 17:53:58] [Info] Disconnect ogs.google.com:443
+[2019-12-23 17:53:58] [Info] Disconnect accounts.google.com:443
+[2019-12-23 17:54:00] [Info] Disconnect apis.google.com:443
+[2019-12-23 17:54:00] [Info] Disconnect clients1.google.com:443
+[2019-12-23 17:54:04] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-23 17:54:07] [Info] Direct connect r1---sn-bvn0o-fo1l.gvt1.com:80
+[2019-12-23 17:54:11] [Info] Disconnect www.google.com:443
+[2019-12-23 17:54:29] [Info] Disconnect safebrowsing.google.com:443
+[2019-12-23 17:54:29] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-12-23 17:54:29] [Info] Disconnect chrome.google.com:443
+[2019-12-23 17:56:08] [Info] Connect raw.githubusercontent.com:443
+[2019-12-23 17:56:09] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-12-23 17:56:13] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-12-23 17:56:23] [Error] connect to update server error
+[2019-12-24 17:10:28] ShadowsocksR started on port 1080
+[2019-12-24 17:10:38] [Info] Connect raw.githubusercontent.com:443
+[2019-12-24 17:10:40] [Error] connect to update server error
+[2019-12-24 17:13:55] ShadowsocksR started on port 1080
+[2019-12-24 17:14:05] [Info] Connect raw.githubusercontent.com:443
+[2019-12-24 17:14:07] [Error] connect to update server error
+[2019-12-24 17:15:47] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-24 17:19:05] [Info] Connect raw.githubusercontent.com:443
+[2019-12-24 17:19:06] [Error] connect to update server error
+[2019-12-24 17:20:46] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-25 21:33:19] ShadowsocksR started on port 1080
+[2019-12-25 21:33:31] [Info] Connect raw.githubusercontent.com:443
+[2019-12-25 21:33:35] [Error] connect to update server error
+[2019-12-25 21:35:15] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-25 21:38:29] [Info] Connect raw.githubusercontent.com:443
+[2019-12-25 21:38:30] [Error] connect to update server error
+[2019-12-25 21:40:10] [Info] Disconnect raw.githubusercontent.com:443
+[2019-12-25 22:00:19] ShadowsocksR started on port 1080
+[2019-12-25 22:00:28] [Info] Connect raw.githubusercontent.com:443
+[2019-12-25 22:00:29] [Info] Connect raw.githubusercontent.com:443
+[2019-12-25 22:00:30] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-12-25 22:00:30] [Error] connect to update server error

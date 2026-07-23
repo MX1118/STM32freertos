@@ -1,0 +1,29 @@
+subjectKeyIdentifier=hash
+authorityKeyIdentifier=keyid:always,issuer:always
+basicConstraints = critical,CA:FALSE,pathlen:0
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment, keyCertSign, cRLSign
+subjectAltName = @alt_names
+extendedKeyUsage = serverAuth
+certificatePolicies=anyPolicy
+
+[alt_names]
+DNS.1 = steamcommunity.com
+DNS.2 = *.steamcommunity.com
+DNS.3 = twitch.tv
+DNS.4 = www.twitch.tv
+DNS.5 = *.twitch.tv
+DNS.6 = *.chat.twitch.tv
+DNS.7 = *.uploads-regional.twitch.tv
+DNS.8 = *.help.twitch.tv
+DNS.9 = *.dev.twitch.tv
+DNS.10 = *.chat.twitch.tv
+DNS.11 = usher.ttvnw.net
+DNS.12 = discordapp.com
+DNS.13 = *.discordapp.com
+DNS.14 = *.discordapp.net
+DNS.15 = *.discord.gg
+DNS.16 = *.steampowered.com
+DNS.17 = *.s3.amazonaws.com
+DNS.18 = *.akamaihd.net
+DNS.19 = *.cdn.ubi.com
+DNS.20 = www.google.com

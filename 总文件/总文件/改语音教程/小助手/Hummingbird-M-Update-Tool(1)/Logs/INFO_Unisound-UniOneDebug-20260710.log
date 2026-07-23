@@ -1,0 +1,5 @@
+Log file created at: 2026/07/10 15:51:05  PID: 20564
+Running on machine: FAN
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0710 15:51:05.400499 19780 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 

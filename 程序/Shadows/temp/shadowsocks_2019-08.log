@@ -1,0 +1,167 @@
+[2019-08-01 14:03:59] ShadowsocksR started on port 1080
+[2019-08-01 14:04:08] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:04:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:09] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-01 14:04:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:09] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-01 14:04:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:09] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-01 14:04:10] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:04:10] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:04:10] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:10] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-01 14:04:10] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:10] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-01 14:04:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-01 14:04:11] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:04:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-01 14:04:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-01 14:04:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-01 14:04:11] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:04:11] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:11] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-01 14:04:12] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:12] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-01 14:04:12] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:04:12] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-01 14:04:12] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:04:12] [Error] connect to update server error
+[2019-08-01 14:09:07] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:09:07] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:07] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-01 14:09:08] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-01 14:09:08] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-01 14:09:08] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:09:08] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-01 14:09:08] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-01 14:09:08] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:08] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-01 14:09:09] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:09:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-01 14:09:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-01 14:09:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-01 14:09:09] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-01 14:09:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-01 14:09:09] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:09] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-01 14:09:10] [Info] Connect raw.githubusercontent.com:443
+[2019-08-01 14:09:10] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-01 14:09:10] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-01 14:09:10] [Error] connect to update server error
+[2019-08-08 15:20:29] ShadowsocksR started on port 1080
+[2019-08-08 15:20:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:20:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:39] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-08 15:20:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:40] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-08 15:20:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:40] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-08 15:20:40] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:20:40] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:20:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:40] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-08 15:20:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:40] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-08 15:20:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-08 15:20:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:20:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-08 15:20:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-08 15:20:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-08 15:20:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:20:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:41] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-08 15:20:42] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:42] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-08 15:20:42] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:20:42] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-08 15:20:42] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:20:42] [Error] connect to update server error
+[2019-08-08 15:25:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:39] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-08 15:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:39] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-08 15:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:39] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-08 15:25:39] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:25:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:39] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-08 15:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-08 15:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Warn] Proxy server [东京D(45.66.134.240)] network unreachable
+[2019-08-08 15:25:40] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Warn] Proxy server [更新X-仅用于访问 Lncn.org(199.247.23.120)] network unreachable
+[2019-08-08 15:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-08 15:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:40] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-08 15:25:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:25:41] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 15:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:41] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-08 15:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:41] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-08 15:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 15:25:41] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-08 15:25:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 15:25:41] [Error] connect to update server error
+[2019-08-08 17:25:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 17:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:39] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-08 17:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:39] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-08 17:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:39] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-08 17:25:39] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 17:25:39] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 17:25:39] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:39] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-08 17:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Warn] Proxy server [东京B(89.31.125.120)] network unreachable
+[2019-08-08 17:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Warn] Proxy server [东京A(45.12.207.100)] network unreachable
+[2019-08-08 17:25:40] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 17:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Warn] Proxy server [洛杉矶G(45.15.131.142)] network unreachable
+[2019-08-08 17:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Warn] Proxy server [更新Y-仅用于访问 Lncn.org(45.76.114.27)] network unreachable
+[2019-08-08 17:25:40] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:40] [Warn] Proxy server [洛杉矶H(2.56.175.192)] network unreachable
+[2019-08-08 17:25:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 17:25:41] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-08-08 17:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:41] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-08 17:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:41] [Warn] Proxy server [东京C(81.90.190.5)] network unreachable
+[2019-08-08 17:25:41] [Info] Connect raw.githubusercontent.com:443
+[2019-08-08 17:25:41] [Warn] Proxy server [洛杉矶F(185.188.6.185)] network unreachable
+[2019-08-08 17:25:41] [Info] Disconnect raw.githubusercontent.com:443
+[2019-08-08 17:25:41] [Error] connect to update server error

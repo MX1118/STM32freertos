@@ -1,0 +1,1846 @@
+[2019-01-15 09:51:33] ShadowsocksR started on port 1080
+[2019-01-15 09:51:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:51:48] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:51:53] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:51:59] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 09:51:59] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:04] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:09] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:10] [Info] Direct connect stdl.qq.com:80
+[2019-01-15 09:52:10] [Info] Direct connect appstore.browser.qq.com:80
+[2019-01-15 09:52:14] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 09:52:14] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:19] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:25] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:30] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 09:52:30] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:35] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:40] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:52:45] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 09:52:45] [Error] connect to update server error
+[2019-01-15 09:55:11] [Info] Connect www.google.com.hk:80
+[2019-01-15 09:55:11] [Info] Connect www.google.com.hk:80
+[2019-01-15 09:55:12] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 09:55:12] [Info] Connect www.google.com.hk:80
+[2019-01-15 09:55:12] [Info] Connect www.google.com.hk:80
+[2019-01-15 09:55:12] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 09:55:12] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 09:55:13] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:55:13] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 09:55:15] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:55:15] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:55:15] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 09:55:15] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:55:16] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:55:16] [Info] Connect apis.google.com:443
+[2019-01-15 09:55:17] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:55:19] [Info] Connect adservice.google.com.hk:443
+[2019-01-15 09:55:22] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:55:25] [Info] Connect www.google.com:443
+[2019-01-15 09:55:56] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 09:56:17] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-01-15 09:56:18] [Info] Direct connect adservice.google.com:443
+[2019-01-15 09:56:19] [Info] Connect worldreviews.disqus.com:443
+[2019-01-15 09:56:20] [Info] Connect maps.googleapis.com:443
+[2019-01-15 09:56:29] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:56:30] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 09:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 09:56:43] [Error] connect to update server error
+[2019-01-15 09:57:08] [Info] Disconnect adservice.google.com.hk:443
+[2019-01-15 09:57:08] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:57:08] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:57:08] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:57:08] [Info] Disconnect maps.googleapis.com:443
+[2019-01-15 09:57:08] [Info] Disconnect worldreviews.disqus.com:443
+[2019-01-15 09:57:08] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:57:08] [Info] Disconnect apis.google.com:443
+[2019-01-15 09:57:08] [Info] Disconnect www.google.com:443
+[2019-01-15 09:57:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:57:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:57:21] [Info] Connect www.google.com:443
+[2019-01-15 09:57:21] [Info] Connect play.google.com:443
+[2019-01-15 09:57:22] [Info] Disconnect www.google.com:443
+[2019-01-15 09:58:23] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 09:58:36] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:58:37] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 09:58:38] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:58:38] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:58:38] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:58:38] [Info] Connect adservice.google.com.hk:443
+[2019-01-15 09:58:38] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:59:09] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:59:09] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 09:59:09] [Info] Disconnect adservice.google.com.hk:443
+[2019-01-15 09:59:09] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:59:09] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:59:09] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 09:59:09] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 09:59:09] [Info] Disconnect play.google.com:443
+[2019-01-15 09:59:15] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:59:15] [Info] Connect www.google.com.hk:443
+[2019-01-15 09:59:17] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 09:59:17] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:59:17] [Info] Connect adservice.google.com.hk:443
+[2019-01-15 09:59:19] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 09:59:26] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:59:28] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 09:59:46] [Info] Connect id.google.com.hk:443
+[2019-01-15 09:59:58] [Info] Connect www.google.com.hk:80
+[2019-01-15 09:59:58] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 10:00:06] [Info] Connect www.google.com.hk:80
+[2019-01-15 10:00:07] [Info] Disconnect www.google.com.hk:80
+[2019-01-15 10:00:18] [Info] Connect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:19] [Info] Connect go.ezoic.net:80
+[2019-01-15 10:00:19] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:00:20] [Info] Disconnect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:20] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:00:20] [Info] Connect www.w3snoop.com:443
+[2019-01-15 10:00:20] [Info] Connect www.w3snoop.com:443
+[2019-01-15 10:00:20] [Info] Disconnect go.ezoic.net:80
+[2019-01-15 10:00:20] [Info] Connect www.w3snoop.com:443
+[2019-01-15 10:00:21] [Info] Connect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:21] [Info] Connect www.w3snoop.com:443
+[2019-01-15 10:00:21] [Info] Connect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:21] [Info] Disconnect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:21] [Info] Connect www.w3snoop.com:443
+[2019-01-15 10:00:22] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:22] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:22] [Info] Direct connect www.googletagmanager.com:443
+[2019-01-15 10:00:22] [Info] Disconnect avgle.com.w3snoop.com:80
+[2019-01-15 10:00:22] [Info] Direct connect www.googletagservices.com:80
+[2019-01-15 10:00:23] [Info] Connect g.ezoic.net:443
+[2019-01-15 10:00:23] [Info] Connect apis.google.com:443
+[2019-01-15 10:00:23] [Info] Connect g.ezoic.net:443
+[2019-01-15 10:00:23] [Info] Connect go.ezoic.net:443
+[2019-01-15 10:00:23] [Info] Direct connect www.google-analytics.com:80
+[2019-01-15 10:00:23] [Info] Connect traffic.alexa.com:80
+[2019-01-15 10:00:24] [Info] Direct connect www.google-analytics.com:80
+[2019-01-15 10:00:24] [Info] Direct connect www.google-analytics.com:80
+[2019-01-15 10:00:25] [Info] Disconnect traffic.alexa.com:80
+[2019-01-15 10:00:25] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-01-15 10:00:25] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 10:00:25] [Info] Disconnect adservice.google.com.hk:443
+[2019-01-15 10:00:25] [Info] Connect cloud.xmp.kankan.com:80
+[2019-01-15 10:00:26] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:00:26] [Info] Disconnect www.google.com.hk:443
+[2019-01-15 10:00:26] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:00:26] [Info] Direct connect www.googletagservices.com:443
+[2019-01-15 10:00:26] [Info] Connect b.scorecardresearch.com:80
+[2019-01-15 10:00:26] [Info] Connect edge.quantserve.com:80
+[2019-01-15 10:00:26] [Info] Disconnect id.google.com.hk:443
+[2019-01-15 10:00:26] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:00:26] [Info] Disconnect cloud.xmp.kankan.com:80
+[2019-01-15 10:00:26] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 10:00:27] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:00:27] [Info] Connect rules.quantcount.com:80
+[2019-01-15 10:00:27] [Info] Connect b.scorecardresearch.com:443
+[2019-01-15 10:00:27] [Info] Disconnect edge.quantserve.com:80
+[2019-01-15 10:00:27] [Info] Disconnect b.scorecardresearch.com:80
+[2019-01-15 10:00:27] [Info] Connect rules.quantcount.com:443
+[2019-01-15 10:00:27] [Info] Disconnect rules.quantcount.com:80
+[2019-01-15 10:00:27] [Info] Disconnect b.scorecardresearch.com:443
+[2019-01-15 10:00:27] [Info] Connect apis.google.com:443
+[2019-01-15 10:00:27] [Info] Connect pixel.quantserve.com:80
+[2019-01-15 10:00:28] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:00:28] [Info] Direct connect wup.browser.qq.com:443
+[2019-01-15 10:00:28] [Info] Disconnect pixel.quantserve.com:80
+[2019-01-15 10:00:28] [Info] Connect accounts.google.com:443
+[2019-01-15 10:00:29] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 10:00:29] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:29] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:00:35] [Debug] DNS query fail: connect.facebook.net
+[2019-01-15 10:00:35] [Info] Connect connect.facebook.net:443
+[2019-01-15 10:00:36] [Info] Connect www.facebook.com:443
+[2019-01-15 10:00:36] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:38] [Info] Connect avgle.com:80
+[2019-01-15 10:00:39] [Info] Connect avgle.com:443
+[2019-01-15 10:00:39] [Info] Disconnect avgle.com:80
+[2019-01-15 10:00:39] [Info] Disconnect g.ezoic.net:443
+[2019-01-15 10:00:39] [Info] Connect avgle.com:443
+[2019-01-15 10:00:39] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:39] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:00:39] [Info] Disconnect g.ezoic.net:443
+[2019-01-15 10:00:39] [Info] Disconnect go.ezoic.net:443
+[2019-01-15 10:00:39] [Info] Disconnect www.w3snoop.com:443
+[2019-01-15 10:00:39] [Info] Disconnect www.w3snoop.com:443
+[2019-01-15 10:00:40] [Info] Disconnect www.w3snoop.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Disconnect www.w3snoop.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Disconnect rules.quantcount.com:443
+[2019-01-15 10:00:40] [Info] Disconnect apis.google.com:443
+[2019-01-15 10:00:40] [Info] Disconnect www.w3snoop.com:443
+[2019-01-15 10:00:40] [Info] Disconnect accounts.google.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:40] [Info] Disconnect connect.facebook.net:443
+[2019-01-15 10:00:40] [Info] Disconnect apis.google.com:443
+[2019-01-15 10:00:40] [Info] Disconnect www.facebook.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:40] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect avgle.com:443
+[2019-01-15 10:00:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:40] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:00:40] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:41] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:00:41] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:00:41] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:00:41] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:00:41] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:41] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:41] [Info] Connect s10.histats.com:443
+[2019-01-15 10:00:41] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:00:41] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:42] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:42] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:00:42] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:00:42] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:42] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:00:42] [Info] Connect m.addthis.com:443
+[2019-01-15 10:00:43] [Info] Connect s4.histats.com:443
+[2019-01-15 10:00:45] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:00:48] [Info] Connect s4.histats.com:443
+[2019-01-15 10:00:50] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:00:50] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:00:50] [Info] Disconnect s10.histats.com:443
+[2019-01-15 10:00:50] [Info] Connect s4.histats.com:443
+[2019-01-15 10:00:51] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:00:55] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:00:55] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Connect s4.histats.com:443
+[2019-01-15 10:00:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:56] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:56] [Info] Disconnect avgle.com:443
+[2019-01-15 10:00:56] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:00:57] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:00:58] [Info] Connect s4.histats.com:443
+[2019-01-15 10:00:58] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:00:59] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:00:59] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:00] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:02] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:04] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:21] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:21] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:22] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:22] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:23] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:23] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:23] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:23] [Info] Connect avgle.com:443
+[2019-01-15 10:01:23] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:23] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:23] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:23] [Info] Connect avgle.com:443
+[2019-01-15 10:01:23] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:01:24] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:01:24] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:24] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:24] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:01:24] [Info] Connect avgle.com:443
+[2019-01-15 10:01:25] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:25] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:25] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:25] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:25] [Info] Connect avgle.com:443
+[2019-01-15 10:01:25] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:25] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:25] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:26] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:26] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:01:26] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:27] [Info] Connect sync.users-api.com:443
+[2019-01-15 10:01:27] [Info] Connect xl-trk.com:443
+[2019-01-15 10:01:27] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:01:27] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:27] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:01:27] [Info] Connect m.addthis.com:443
+[2019-01-15 10:01:27] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:27] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:27] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:27] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:27] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:27] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:27] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:27] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:28] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:28] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:01:28] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:28] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:01:28] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:28] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:01:28] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:01:29] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:29] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:29] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:29] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:01:29] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:29] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:01:29] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:29] [Info] Connect m.addthis.com:443
+[2019-01-15 10:01:30] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:31] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:31] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:32] [Info] Direct connect pro.pz1.3dn.ie.sogou.com:80
+[2019-01-15 10:01:32] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:34] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:01:35] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:36] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:01:36] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:01:36] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:36] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:01:36] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:37] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:38] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:38] [Info] Disconnect sync.users-api.com:443
+[2019-01-15 10:01:38] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:39] [Info] Connect avgle.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:01:40] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect avgle.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect avgle.com:443
+[2019-01-15 10:01:40] [Info] Connect avgle.com:443
+[2019-01-15 10:01:40] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:01:40] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:40] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:01:41] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:01:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:41] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:41] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:41] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:41] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:41] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:41] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:41] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:01:41] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:41] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:01:41] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:01:41] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:41] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:41] [Info] Connect xl-trk.com:443
+[2019-01-15 10:01:41] [Info] Connect sync.users-api.com:443
+[2019-01-15 10:01:42] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:01:42] [Info] Connect s10.histats.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:42] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:01:42] [Info] Connect m.addthis.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:42] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:43] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:01:43] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:44] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:01:44] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:44] [Info] Connect s4.histats.com:443
+[2019-01-15 10:01:44] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:46] [Info] Connect xl-trk.com:443
+[2019-01-15 10:01:46] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:01:46] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:01:46] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:01:46] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:01:46] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:01:46] [Info] Disconnect avgle.com:443
+[2019-01-15 10:01:46] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:01:48] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:01:49] [Info] Disconnect s10.histats.com:443
+[2019-01-15 10:01:51] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:51] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:51] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:52] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:01:52] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:53] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect isafe.pro:443
+[2019-01-15 10:01:53] [Info] Connect ads.exdynsrv.com:443
+[2019-01-15 10:01:53] [Info] Disconnect sync.users-api.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:56] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:01:56] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:01:57] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Disconnect ads.exdynsrv.com:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:57] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:01:57] [Info] Connect avgle.com:443
+[2019-01-15 10:01:57] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:58] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:01:58] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:58] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:58] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:01:58] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:58] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:01:58] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:58] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:58] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:01:59] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:59] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:01:59] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:01:59] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:00] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:00] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:02:01] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:02:01] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:02:08] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:02:10] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:02:17] [Info] Connect avgle.com:443
+[2019-01-15 10:02:18] [Info] Connect avgle.com:443
+[2019-01-15 10:02:18] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:02:18] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:02:18] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:02:19] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:19] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:02:19] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:02:20] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:02:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:02:20] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:02:21] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:21] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:02:25] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:02:25] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:02:25] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:25] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:25] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:02:26] [Info] Connect xl-trk.com:443
+[2019-01-15 10:02:26] [Info] Connect sync.users-api.com:443
+[2019-01-15 10:02:26] [Info] Connect avgle.com:443
+[2019-01-15 10:02:27] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:02:28] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:02:28] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:02:29] [Info] Connect s10.histats.com:443
+[2019-01-15 10:02:29] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:02:29] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:29] [Info] Connect xl-trk.com:443
+[2019-01-15 10:02:29] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:02:30] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:02:30] [Info] Connect m.addthis.com:443
+[2019-01-15 10:02:30] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:02:30] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:02:30] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:30] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:02:30] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:30] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:02:31] [Info] Connect s4.histats.com:443
+[2019-01-15 10:02:31] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:02:33] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:02:33] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:02:35] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:35] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:35] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:36] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:36] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:37] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:02:38] [Info] Disconnect sync.users-api.com:443
+[2019-01-15 10:02:38] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:02:38] [Info] Connect s4.histats.com:443
+[2019-01-15 10:02:38] [Info] Disconnect s10.histats.com:443
+[2019-01-15 10:02:40] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:40] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:02:42] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:42] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:42] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:42] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:42] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:02:42] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:42] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:49] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:02:49] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:02:53] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:02:53] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:02:53] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:53] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:53] [Info] Connect avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:02:54] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:02:54] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:02:54] [Info] Connect avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:02:54] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:02:54] [Info] Connect xl-trk.com:443
+[2019-01-15 10:02:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:55] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:02:55] [Info] Connect s4.histats.com:443
+[2019-01-15 10:02:55] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:02:55] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:02:55] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:02:56] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:02:56] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:02:56] [Info] Connect m.addthis.com:443
+[2019-01-15 10:02:57] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:57] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:57] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:57] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:02:57] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:02:57] [Info] Connect xl-trk.com:443
+[2019-01-15 10:02:58] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:02:59] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:02:59] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:03:06] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:06] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:06] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:06] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:03:06] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:03:07] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:03:09] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:03:11] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:03:16] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:03:16] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:03:16] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:03:16] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:03:16] [Info] Disconnect avgle.com:443
+[2019-01-15 10:03:17] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:03:18] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:03:39] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:39] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:03:39] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:03:39] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:03:39] [Info] Disconnect avgle.com:443
+[2019-01-15 10:03:39] [Info] Disconnect avgle.com:443
+[2019-01-15 10:03:39] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:03:39] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:03:40] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:03:40] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:40] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:40] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:03:42] [Info] Direct connect conf.xmp.kankan.com:80
+[2019-01-15 10:03:42] [Info] Direct connect pv.xmp.stat.xunlei.com:80
+[2019-01-15 10:03:42] [Info] Direct connect conf.v.xunlei.com:80
+[2019-01-15 10:03:52] [Info] Disconnect avgle.com:443
+[2019-01-15 10:03:59] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:04:03] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 120.209.138.64:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 10:04:04] [Info] Connect isafe.pro:443
+[2019-01-15 10:04:05] [Info] Connect ads.exdynsrv.com:443
+[2019-01-15 10:04:05] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:04:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:04:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:04:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:04:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:04:06] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:04:06] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:04:06] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:04:07] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:04:07] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:04:10] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:04:11] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:04:11] [Info] Direct connect user.xmp.stat.kankan.com:80
+[2019-01-15 10:04:14] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:04:14] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:04:16] [Info] Direct connect tp.client.xunlei.com:80
+[2019-01-15 10:04:18] [Info] Connect ip-info.ff.avast.com:80
+[2019-01-15 10:04:19] [Info] Disconnect ip-info.ff.avast.com:80
+[2019-01-15 10:04:22] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:22] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:22] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:23] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:23] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:23] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:23] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:04:37] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 120.221.99.226:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 10:04:37] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:04:37] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:04:37] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:04:37] [Info] Disconnect avgle.com:443
+[2019-01-15 10:04:43] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:04:43] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:04:43] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:04:43] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:04:49] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:50] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:51] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:52] [Info] Connect a4.bing.com:80
+[2019-01-15 10:04:52] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:52] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:52] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:52] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:04:52] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:04:52] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Disconnect a4.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:53] [Info] Connect a4.bing.com:80
+[2019-01-15 10:04:53] [Info] Connect a4.bing.com:80
+[2019-01-15 10:04:53] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:54] [Info] Disconnect a4.bing.com:80
+[2019-01-15 10:04:54] [Info] Disconnect a4.bing.com:80
+[2019-01-15 10:04:54] [Info] Direct connect p7.qhimg.com:80
+[2019-01-15 10:04:54] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:54] [Info] Direct connect p7.qhimg.com:80
+[2019-01-15 10:04:54] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:54] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:54] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:04:58] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:03] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:04] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:04] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:04] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:04] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:04] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:05] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:05] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:06] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:09] [Info] Direct connect www.google.cn:80
+[2019-01-15 10:05:09] [Info] Direct connect www.google.cn:80
+[2019-01-15 10:05:12] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:12] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:13] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect s.cn.bing.net:80
+[2019-01-15 10:05:13] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:13] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:13] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:13] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:15] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:17] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:17] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:80
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Connect www.google.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:05:18] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:19] [Info] Direct connect www.googletagmanager.com:443
+[2019-01-15 10:05:19] [Info] Direct connect ssl.google-analytics.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:19] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:05:20] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-01-15 10:05:20] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:20] [Info] Direct connect tools.google.com:443
+[2019-01-15 10:05:26] [Info] Direct connect dl.google.com:443
+[2019-01-15 10:05:31] [Info] Direct connect dl.google.com:443
+[2019-01-15 10:05:33] [Info] Connect ocsp.digicert.com:80
+[2019-01-15 10:05:33] [Info] Direct connect www.google.cn:443
+[2019-01-15 10:05:33] [Info] Connect ocsp.digicert.com:80
+[2019-01-15 10:05:33] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:33] [Info] Direct connect 2542116.fls.doubleclick.net:443
+[2019-01-15 10:05:33] [Info] Disconnect ocsp.digicert.com:80
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Direct connect www.googleadservices.com:443
+[2019-01-15 10:05:34] [Info] Disconnect www.google.com:443
+[2019-01-15 10:05:34] [Info] Disconnect ocsp.digicert.com:80
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:34] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-01-15 10:05:35] [Info] Direct connect tools.google.com:443
+[2019-01-15 10:05:41] [Info] Connect th.symcd.com:80
+[2019-01-15 10:05:42] [Info] Disconnect th.symcd.com:80
+[2019-01-15 10:05:45] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:47] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:05:49] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 10:05:49] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 10:05:50] [Info] Direct connect redirector.gvt1.com:80
+[2019-01-15 10:05:51] [Info] Direct connect r2---sn-bvn0o-fo1e.gvt1.com:80
+[2019-01-15 10:05:51] [Info] Direct connect r2---sn-bvn0o-fo1e.gvt1.com:80
+[2019-01-15 10:05:51] [Info] Direct connect 111.1.50.65:80
+[2019-01-15 10:05:51] [Info] Direct connect 111.1.50.65:80
+[2019-01-15 10:05:51] [Info] Direct connect 111.1.50.65:80
+[2019-01-15 10:05:58] [Info] Direct connect cn.bing.com:80
+[2019-01-15 10:06:04] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:06:04] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:06:05] [Info] Disconnect ads.exdynsrv.com:443
+[2019-01-15 10:06:05] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:06:07] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:06:07] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:06:08] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:08] [Info] Direct connect input.shouji.sogou.com:80
+[2019-01-15 10:06:08] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:06:08] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:08] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:09] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:33] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:51] [Info] Direct connect redirector.gvt1.com:443
+[2019-01-15 10:06:52] [Info] Direct connect r2---sn-bvn0o-fo1e.gvt1.com:443
+[2019-01-15 10:06:53] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:06:53] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:06:58] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:06:59] [Info] Direct connect psg.pinyin.sogou.com:80
+[2019-01-15 10:07:02] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:07:03] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:07:03] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:07:04] [Info] Direct connect ime.sogou.com:80
+[2019-01-15 10:07:04] [Info] Direct connect ime.sogou.com:80
+[2019-01-15 10:07:04] [Info] Direct connect ime.sogou.com:80
+[2019-01-15 10:07:05] [Info] Direct connect dl.pinyin.sogou.com:80
+[2019-01-15 10:07:06] [Info] Direct connect dl.pinyin.sogou.com:80
+[2019-01-15 10:07:07] [Info] Direct connect ime.sogou.com:80
+[2019-01-15 10:07:09] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:07:11] [Info] Connect avgle.com:443
+[2019-01-15 10:07:12] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:07:12] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:07:13] [Info] Connect avgle.com:443
+[2019-01-15 10:07:13] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:07:13] [Info] Direct connect st.pinyin.sogou.com:80
+[2019-01-15 10:07:14] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:07:15] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:07:15] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:07:18] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:07:18] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:07:21] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:07:21] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:07:21] [Info] Connect avgle.com:443
+[2019-01-15 10:07:21] [Info] Connect avgle.com:443
+[2019-01-15 10:07:23] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:07:27] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:07:31] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:07:31] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:07:32] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:07:32] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:07:33] [Info] Connect xl-trk.com:443
+[2019-01-15 10:07:33] [Info] Connect sync.users-api.com:443
+[2019-01-15 10:07:34] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 220.181.26.85:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 10:07:34] [Info] Direct connect st.pinyin.sogou.com:80
+[2019-01-15 10:07:34] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:07:34] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:07:34] [Info] Connect s10.histats.com:443
+[2019-01-15 10:07:34] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:07:36] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:07:36] [Info] Connect m.addthis.com:443
+[2019-01-15 10:07:36] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:07:36] [Info] Disconnect avgle.com:443
+[2019-01-15 10:07:36] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:07:36] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:07:36] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:07:36] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:07:36] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:07:36] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:07:36] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:07:36] [Info] Connect xl-trk.com:443
+[2019-01-15 10:07:36] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:07:37] [Info] Connect s4.histats.com:443
+[2019-01-15 10:07:37] [Info] Disconnect avgle.com:443
+[2019-01-15 10:07:39] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:07:39] [Info] Connect urs.microsoft.com:443
+[2019-01-15 10:07:40] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 10:07:44] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:07:44] [Info] Disconnect s10.histats.com:443
+[2019-01-15 10:07:44] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:07:44] [Info] Disconnect sync.users-api.com:443
+[2019-01-15 10:07:46] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:07:46] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:07:55] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 220.181.26.85:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 10:07:57] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:07:58] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Disconnect avgle.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:07] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:08:07] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:08:07] [Info] Disconnect avgle.com:443
+[2019-01-15 10:08:09] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:08:19] [Info] Connect avgle.com:443
+[2019-01-15 10:08:19] [Info] Connect www.dmm.co.jp:80
+[2019-01-15 10:08:20] [Info] Disconnect www.dmm.co.jp:80
+[2019-01-15 10:08:24] [Info] Connect www.dmm.co.jp:80
+[2019-01-15 10:08:25] [Info] Disconnect www.dmm.co.jp:80
+[2019-01-15 10:08:26] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 10:08:28] [Info] Direct connect clientservices.googleapis.com:443
+[2019-01-15 10:08:29] [Info] Connect clients2.google.com:443
+[2019-01-15 10:08:30] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:08:30] [Info] Direct connect redirector.gvt1.com:80
+[2019-01-15 10:08:30] [Info] Direct connect r6---sn-bvn0o-fo1e.gvt1.com:80
+[2019-01-15 10:08:30] [Info] Direct connect redirector.gvt1.com:80
+[2019-01-15 10:08:31] [Info] Direct connect r8---sn-bvn0o-fo1e.gvt1.com:80
+[2019-01-15 10:08:31] [Info] Connect accounts.google.com:443
+[2019-01-15 10:08:33] [Info] Connect www.googleapis.com:443
+[2019-01-15 10:08:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 10:08:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 10:08:44] [Info] Disconnect avgle.com:443
+[2019-01-15 10:08:46] [Info] Connect avgle.com:443
+[2019-01-15 10:08:47] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:08:47] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:08:47] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:08:47] [Info] Connect cdnjs.cloudflare.com:443
+[2019-01-15 10:08:48] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:08:48] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:08:48] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:08:48] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:08:48] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:48] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:08:48] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:08:48] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:48] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:08:50] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:51] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:08:51] [Info] Connect sync.users-api.com:443
+[2019-01-15 10:08:51] [Info] Connect xl-trk.com:443
+[2019-01-15 10:08:51] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:08:51] [Info] Connect s10.histats.com:443
+[2019-01-15 10:08:51] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:08:51] [Info] Connect m.addthis.com:443
+[2019-01-15 10:08:51] [Info] Connect clients1.google.com:443
+[2019-01-15 10:08:51] [Info] Direct connect translate.googleapis.com:443
+[2019-01-15 10:08:52] [Info] Connect s4.histats.com:443
+[2019-01-15 10:08:52] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:08:52] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:08:53] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:08:53] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:08:53] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:08:54] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:08:54] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:08:54] [Info] Connect cdn.user-api.com:443
+[2019-01-15 10:08:54] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:08:54] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:08:54] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:08:57] [Info] Connect r3---sn-hk85l709.qooqlevideo.com:443
+[2019-01-15 10:08:57] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:08:58] [Info] Connect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:08:58] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:08:58] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:09:01] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:09:04] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:09:07] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:09:13] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:09:15] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:09:33] [Info] Connect clients4.google.com:443
+[2019-01-15 10:09:37] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:09:37] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:09:37] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:09:37] [Info] Connect s4.histats.com:443
+[2019-01-15 10:09:38] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:09:39] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:09:47] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:09:47] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:09:48] [Info] Connect s4.histats.com:443
+[2019-01-15 10:09:48] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:09:49] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:09:52] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:09:59] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:09:59] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:10:03] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:10:05] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:10:06] [Info] Connect isafe.pro:443
+[2019-01-15 10:10:08] [Info] Connect ads.exdynsrv.com:443
+[2019-01-15 10:10:08] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:10:10] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:10:10] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:10:12] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:10:12] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:10:13] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:10:15] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:10:15] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:10:17] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:10:17] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:10:17] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:10:30] [Info] Disconnect clients2.google.com:443
+[2019-01-15 10:10:31] [Info] Connect chrome.google.com:443
+[2019-01-15 10:10:31] [Info] Connect chrome.google.com:443
+[2019-01-15 10:10:32] [Info] Disconnect chrome.google.com:443
+[2019-01-15 10:10:33] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:10:34] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:10:34] [Info] Connect www.google.com:443
+[2019-01-15 10:10:34] [Info] Connect www.google.com:443
+[2019-01-15 10:10:35] [Info] Disconnect accounts.google.com:443
+[2019-01-15 10:10:35] [Info] Disconnect www.googleapis.com:443
+[2019-01-15 10:10:37] [Info] Direct connect ssl.google-analytics.com:443
+[2019-01-15 10:10:37] [Info] Connect clients1.google.com:443
+[2019-01-15 10:10:38] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 10:10:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:10:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:10:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:10:38] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:10:39] [Info] Direct connect stats.g.doubleclick.net:443
+[2019-01-15 10:10:40] [Info] Disconnect cdn.user-api.com:443
+[2019-01-15 10:10:45] [Info] Disconnect www.google.com:443
+[2019-01-15 10:10:46] [Info] Connect clients2.google.com:443
+[2019-01-15 10:10:47] [Info] Disconnect clients2.google.com:443
+[2019-01-15 10:10:49] [Info] Disconnect cdnjs.cloudflare.com:443
+[2019-01-15 10:10:50] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:10:50] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:10:50] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:10:50] [Info] Direct connect redirector.gvt1.com:443
+[2019-01-15 10:10:50] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:10:51] [Info] Direct connect r5---sn-bvn0o-fo1e.gvt1.com:443
+[2019-01-15 10:10:51] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:10:54] [Info] Disconnect clients1.google.com:443
+[2019-01-15 10:10:54] [Info] Disconnect sync.users-api.com:443
+[2019-01-15 10:10:56] [Info] Disconnect s10.histats.com:443
+[2019-01-15 10:11:12] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:12] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:12] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:12] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:12] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:13] [Info] Connect plus.google.com:443
+[2019-01-15 10:11:13] [Info] Direct connect csi.gstatic.com:443
+[2019-01-15 10:11:13] [Info] Direct connect csi.gstatic.com:443
+[2019-01-15 10:11:18] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:11:18] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 10:11:30] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:11:30] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:11:30] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:11:30] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:11:30] [Info] Connect id.google.com:443
+[2019-01-15 10:11:30] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:11:31] [Info] Connect apis.google.com:443
+[2019-01-15 10:11:36] [Info] Disconnect clients4.google.com:443
+[2019-01-15 10:11:38] [Info] Direct connect adservice.google.com:443
+[2019-01-15 10:11:49] [Info] Connect i.ytimg.com:443
+[2019-01-15 10:11:50] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:11:50] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:11:52] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:11:52] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:11:54] [Info] Disconnect r3---sn-hk85l709.qooqlevideo.com:443
+[2019-01-15 10:12:05] [Info] Disconnect avgle.com:443
+[2019-01-15 10:12:12] [Info] Disconnect ads.exdynsrv.com:443
+[2019-01-15 10:12:15] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:12:15] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:12:20] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:12:20] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:12:36] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:12:39] [Info] Direct connect safebrowsing.googleapis.com:443
+[2019-01-15 10:12:39] [Info] Disconnect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:13:06] [Info] Connect lh3.googleusercontent.com:443
+[2019-01-15 10:13:09] [Info] Connect www.googleapis.com:443
+[2019-01-15 10:13:09] [Info] Connect clients2.google.com:443
+[2019-01-15 10:13:10] [Info] Connect clients2.googleusercontent.com:443
+[2019-01-15 10:13:15] [Info] Connect sb-ssl.google.com:443
+[2019-01-15 10:13:15] [Info] Disconnect plus.google.com:443
+[2019-01-15 10:13:15] [Info] Disconnect clients1.google.com:443
+[2019-01-15 10:13:20] [Info] Connect www.downloadhelper.net:443
+[2019-01-15 10:13:20] [Info] Connect www.downloadhelper.net:443
+[2019-01-15 10:13:21] [Info] Direct connect www.google-analytics.com:443
+[2019-01-15 10:13:21] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:13:21] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:13:21] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:13:21] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:13:22] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:13:30] [Info] Connect avgle.com:443
+[2019-01-15 10:13:31] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:13:31] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:13:31] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:13:32] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:13:32] [Info] Connect xl-trk.com:443
+[2019-01-15 10:13:32] [Info] Connect s4.histats.com:443
+[2019-01-15 10:13:32] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:13:32] [Info] Connect m.addthis.com:443
+[2019-01-15 10:13:32] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:13:33] [Info] Connect r3---sn-hk85l709.qooqlevideo.com:443
+[2019-01-15 10:13:33] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:13:34] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:13:34] [Info] Disconnect apis.google.com:443
+[2019-01-15 10:13:34] [Info] Connect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:13:43] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:13:43] [Info] Disconnect id.google.com:443
+[2019-01-15 10:13:44] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:13:48] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:13:50] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:13:52] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:13:52] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:14:14] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:14:17] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:14:18] [Info] Connect s4.histats.com:443
+[2019-01-15 10:14:18] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:14:19] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:14:19] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:14:19] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:14:22] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:14:22] [Info] Disconnect www.downloadhelper.net:443
+[2019-01-15 10:14:24] [Info] Connect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:14:27] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:14:28] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 10:14:31] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:14:34] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:14:38] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:14:51] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:15:07] [Info] Disconnect i.ytimg.com:443
+[2019-01-15 10:15:08] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:15:09] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:15:11] [Info] Disconnect lh3.googleusercontent.com:443
+[2019-01-15 10:15:11] [Info] Disconnect clients2.google.com:443
+[2019-01-15 10:15:11] [Info] Disconnect www.googleapis.com:443
+[2019-01-15 10:15:18] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-01-15 10:15:18] [Info] Disconnect sb-ssl.google.com:443
+[2019-01-15 10:15:23] [Info] Disconnect www.downloadhelper.net:443
+[2019-01-15 10:15:32] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:15:44] [Info] Disconnect chrome.google.com:443
+[2019-01-15 10:15:44] [Info] Disconnect www.google.com:443
+[2019-01-15 10:15:44] [Info] Connect st.adxxx.info:443
+[2019-01-15 10:15:44] [Info] Connect sub2.avgle.com:443
+[2019-01-15 10:15:44] [Info] Connect olmsoneenh.info:443
+[2019-01-15 10:15:47] [Info] Connect s4.histats.com:443
+[2019-01-15 10:15:47] [Info] Connect n.adxxx.info:443
+[2019-01-15 10:15:49] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:15:49] [Info] Disconnect s4.histats.com:443
+[2019-01-15 10:15:57] [Info] Disconnect sub2.avgle.com:443
+[2019-01-15 10:15:57] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:15:59] [Info] Disconnect n.adxxx.info:443
+[2019-01-15 10:16:02] [Info] Disconnect olmsoneenh.info:443
+[2019-01-15 10:16:06] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:16:12] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:16:12] [Info] Direct connect config.pinyin.sogou.com:80
+[2019-01-15 10:16:13] [Info] Direct connect info.pinyin.sogou.com:80
+[2019-01-15 10:16:13] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:16:14] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:16:14] [Info] Direct connect get.sogou.com:80
+[2019-01-15 10:16:22] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:16:22] [Info] Connect syndication.exdynsrv.com:443
+[2019-01-15 10:16:22] [Info] Connect isafe.pro:443
+[2019-01-15 10:16:22] [Info] Connect isafe.pro:443
+[2019-01-15 10:16:23] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:16:23] [Info] Connect static.exdynsrv.com:443
+[2019-01-15 10:16:25] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:16:27] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:16:27] [Info] Disconnect syndication.exdynsrv.com:443
+[2019-01-15 10:16:41] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:16:41] [Info] Direct connect ping.pinyin.sogou.com:80
+[2019-01-15 10:16:43] [Info] Connect www.google.com:443
+[2019-01-15 10:16:43] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:16:43] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:16:44] [Info] Direct connect ssl.gstatic.com:443
+[2019-01-15 10:16:44] [Info] Direct connect www.gstatic.com:443
+[2019-01-15 10:16:47] [Info] Connect apis.google.com:443
+[2019-01-15 10:16:48] [Info] Connect ogs.google.com:443
+[2019-01-15 10:16:48] [Info] Direct connect adservice.google.com:443
+[2019-01-15 10:16:49] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:52] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:52] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:52] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:53] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:53] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:54] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:54] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:54] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:54] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:55] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:55] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:55] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:56] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:57] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:16:57] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:57] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:58] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:16:58] [Info] Direct connect push.zhanzhang.baidu.com:80
+[2019-01-15 10:16:58] [Info] Direct connect www.baidu.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:58] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:58] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:58] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:16:58] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:16:59] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:16:59] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:16:59] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:16:59] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:16:59] [Info] Direct connect api.share.baidu.com:80
+[2019-01-15 10:16:59] [Info] Direct connect qj.borsendental.com:443
+[2019-01-15 10:16:59] [Info] Direct connect j.qiqivv.com:4433
+[2019-01-15 10:16:59] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:16:59] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:01] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:02] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:02] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:03] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:17:03] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:03] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:03] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:03] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:04] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect clients1.google.com:443
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:17:04] [Info] Disconnect r3---sn-hk85l709.qooqlevideo.com:443
+[2019-01-15 10:17:04] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:17:04] [Info] Disconnect avgle.com:443
+[2019-01-15 10:17:04] [Info] Disconnect isafe.pro:443
+[2019-01-15 10:17:04] [Info] Disconnect xl-trk.com:443
+[2019-01-15 10:17:04] [Info] Disconnect st.adxxx.info:443
+[2019-01-15 10:17:04] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:17:04] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:17:04] [Info] Direct connect j.qiqivv.com:4433
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:04] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:05] [Info] Disconnect static.exdynsrv.com:443
+[2019-01-15 10:17:05] [Info] Disconnect ogs.google.com:443
+[2019-01-15 10:17:05] [Info] Disconnect apis.google.com:443
+[2019-01-15 10:17:05] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:17:05] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:05] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:05] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:05] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:05] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:17:05] [Info] Connect sjbtn.appfh.com:80
+[2019-01-15 10:17:05] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:05] [Info] Connect sjbtn.appfh.com:80
+[2019-01-15 10:17:06] [Info] Connect www.appfh.com:80
+[2019-01-15 10:17:06] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:06] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:06] [Info] Direct connect api.share.baidu.com:80
+[2019-01-15 10:17:08] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:17:09] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:09] [Info] Disconnect sjbtn.appfh.com:80
+[2019-01-15 10:17:09] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:17:09] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:10] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:10] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:10] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:10] [Info] Direct connect jimg.jxtjkj.com:80
+[2019-01-15 10:17:10] [Info] Direct connect s1.guanglijiudian.com:80
+[2019-01-15 10:17:10] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:10] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:11] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:11] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Direct connect api.share.baidu.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:12] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:13] [Info] Disconnect www.appfh.com:80
+[2019-01-15 10:17:13] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:13] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:13] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:13] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:17:13] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:13] [Info] Disconnect sjbtn.appfh.com:80
+[2019-01-15 10:17:13] [Info] Direct connect jimg.jxtjkj.com:80
+[2019-01-15 10:17:14] [Info] Connect sj.appfh.com:80
+[2019-01-15 10:17:14] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:14] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:14] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:14] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:14] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:14] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:14] [Info] Direct connect s1.guanglijiudian.com:80
+[2019-01-15 10:17:14] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:17:14] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:14] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:17:15] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:17:15] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:15] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:15] [Info] Disconnect sj.appfh.com:80
+[2019-01-15 10:17:16] [Info] Direct connect api.share.baidu.com:80
+[2019-01-15 10:17:16] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:17:16] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:16] [Info] Direct connect api.xhub.cn:80
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Direct connect adservice.google.com:443
+[2019-01-15 10:17:17] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Connect www.google.com:443
+[2019-01-15 10:17:17] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:18] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Connect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:20] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:22] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:22] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:22] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:23] [Info] Connect www.btgc3.com:80
+[2019-01-15 10:17:23] [Info] Disconnect pc.appfh.com:80
+[2019-01-15 10:17:24] [Info] Disconnect www.btgc3.com:80
+[2019-01-15 10:17:28] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:28] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:28] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:28] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:28] [Info] Disconnect www.google.com:443
+[2019-01-15 10:17:28] [Info] Connect id.google.com:443
+[2019-01-15 10:17:52] [Info] Disconnect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:17:55] [Info] Connect www.askk.info:443
+[2019-01-15 10:17:57] [Info] Direct connect fonts.googleapis.com:443
+[2019-01-15 10:17:57] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:17:57] [Info] Direct connect js.users.51.la:443
+[2019-01-15 10:17:58] [Info] Direct connect zz.bdstatic.com:443
+[2019-01-15 10:17:58] [Info] Direct connect fonts.gstatic.com:443
+[2019-01-15 10:17:58] [Info] Direct connect ia.51.la:443
+[2019-01-15 10:17:58] [Info] Direct connect sp0.baidu.com:443
+[2019-01-15 10:17:59] [Info] Direct connect www.ctrip.com:443
+[2019-01-15 10:18:07] [Info] Connect cililianbt.com:443
+[2019-01-15 10:18:09] [Info] Direct connect qj.borsendental.com:443
+[2019-01-15 10:18:10] [Info] Direct connect jc.4006825178.com:443
+[2019-01-15 10:18:10] [Info] Direct connect cdn.jsdelivr.net:443
+[2019-01-15 10:18:10] [Info] Connect assets.258ydh.com:443
+[2019-01-15 10:18:10] [Info] Direct connect s22.cnzz.com:443
+[2019-01-15 10:18:10] [Info] Direct connect s4.cnzz.com:443
+[2019-01-15 10:18:10] [Info] Direct connect apps.bdimg.com:443
+[2019-01-15 10:18:10] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:18:10] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:18:10] [Info] Direct connect sc.xhbaihehang.com:443
+[2019-01-15 10:18:10] [Info] Connect cdn.hivps.xyz:443
+[2019-01-15 10:18:10] [Info] Direct connect abc.zhiyaspa.com:443
+[2019-01-15 10:18:10] [Info] Direct connect img.yqgytx.com:443
+[2019-01-15 10:18:10] [Info] Direct connect jc.bubbleandyeson.com:443
+[2019-01-15 10:18:10] [Info] Direct connect jc.bubbleandyeson.com:443
+[2019-01-15 10:18:10] [Info] Direct connect jc.bubbleandyeson.com:443
+[2019-01-15 10:18:10] [Info] Direct connect jc.buerchaoshi.com:443
+[2019-01-15 10:18:10] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:11] [Info] Direct connect nwejs.myzcoffice.com:443
+[2019-01-15 10:18:11] [Info] Direct connect nwejs.myzcoffice.com:443
+[2019-01-15 10:18:11] [Info] Direct connect nwejs.myzcoffice.com:443
+[2019-01-15 10:18:11] [Info] Direct connect nwejs.myzcoffice.com:443
+[2019-01-15 10:18:11] [Info] Direct connect nwejs.myzcoffice.com:443
+[2019-01-15 10:18:11] [Info] Disconnect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:18:11] [Info] Disconnect clients1.google.com:443
+[2019-01-15 10:18:11] [Info] Disconnect maxcdn.bootstrapcdn.com:443
+[2019-01-15 10:18:11] [Info] Disconnect id.google.com:443
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:11] [Info] Disconnect www.askk.info:443
+[2019-01-15 10:18:11] [Info] Direct connect z1.cnzz.com:443
+[2019-01-15 10:18:11] [Info] Disconnect cililianbt.com:443
+[2019-01-15 10:18:11] [Info] Direct connect c.cnzz.com:443
+[2019-01-15 10:18:11] [Info] Direct connect m.yzjlsb.com:443
+[2019-01-15 10:18:11] [Info] Direct connect g.aliguojw.com:443
+[2019-01-15 10:18:11] [Info] Disconnect www.google.com:443
+[2019-01-15 10:18:12] [Info] Direct connect jc.4006825178.com:443
+[2019-01-15 10:18:13] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:13] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:13] [Info] Direct connect sp0.baidu.com:443
+[2019-01-15 10:18:13] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:14] [Info] Direct connect j.jiuyue699.com:443
+[2019-01-15 10:18:14] [Info] Direct connect s19.cnzz.com:443
+[2019-01-15 10:18:14] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:18:14] [Info] Connect clients1.google.com:443
+[2019-01-15 10:18:14] [Info] Connect hechaocheng.cn:443
+[2019-01-15 10:18:14] [Info] Direct connect z11.cnzz.com:443
+[2019-01-15 10:18:14] [Info] Direct connect g.711983.com:443
+[2019-01-15 10:18:14] [Info] Connect m.addthisedge.com:443
+[2019-01-15 10:18:14] [Info] Direct connect cnzz.mmstat.com:443
+[2019-01-15 10:18:14] [Info] Connect m.addthis.com:443
+[2019-01-15 10:18:15] [Info] Connect s7.addthis.com:443
+[2019-01-15 10:18:15] [Info] Connect cililianbt.com:443
+[2019-01-15 10:18:17] [Info] Connect graph.facebook.com:443
+[2019-01-15 10:18:17] [Info] Connect graph.facebook.com:443
+[2019-01-15 10:18:17] [Info] Connect api-public.addthis.com:443
+[2019-01-15 10:18:17] [Info] Connect api-public.addthis.com:443
+[2019-01-15 10:18:17] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:17] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:17] [Info] Direct connect j.qiqivv.com:4433
+[2019-01-15 10:18:17] [Info] Direct connect k.hdjxmf.com:443
+[2019-01-15 10:18:17] [Info] Direct connect mmp.iyygzs.com:443
+[2019-01-15 10:18:17] [Info] Disconnect graph.facebook.com:443
+[2019-01-15 10:18:17] [Info] Disconnect hechaocheng.cn:443
+[2019-01-15 10:18:17] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:17] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:17] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:17] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:18] [Info] Direct connect count.7794.com:80
+[2019-01-15 10:18:18] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:18] [Info] Disconnect api-public.addthis.com:443
+[2019-01-15 10:18:18] [Info] Direct connect jc.bubbleandyeson.com:443
+[2019-01-15 10:18:18] [Info] Direct connect z1.cnzz.com:443
+[2019-01-15 10:18:18] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:18] [Info] Connect hechaocheng.cn:443
+[2019-01-15 10:18:18] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:18] [Info] Direct connect z11.cnzz.com:443
+[2019-01-15 10:18:19] [Info] Direct connect ia.51.la:443
+[2019-01-15 10:18:19] [Info] Direct connect pingtas.qq.com:443
+[2019-01-15 10:18:19] [Info] Connect tapestry.tapad.com:443
+[2019-01-15 10:18:19] [Info] Connect a.tribalfusion.com:443
+[2019-01-15 10:18:19] [Info] Disconnect hechaocheng.cn:443
+[2019-01-15 10:18:20] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:20] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:18:20] [Info] Connect su.addthis.com:443
+[2019-01-15 10:18:24] [Info] Direct connect jc.4006825178.com:443
+[2019-01-15 10:18:24] [Info] Direct connect j.jiuyue699.com:443
+[2019-01-15 10:18:24] [Info] Disconnect a.tribalfusion.com:443
+[2019-01-15 10:18:32] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:47] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:18:47] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:19:17] [Info] Direct connect s8.dnaxddnc.com:80
+[2019-01-15 10:19:23] [Info] Disconnect graph.facebook.com:443
+[2019-01-15 10:19:25] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:19:28] [Info] Disconnect s7.addthis.com:443
+[2019-01-15 10:19:28] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:19:28] [Info] Disconnect api-public.addthis.com:443
+[2019-01-15 10:19:30] [Info] Disconnect m.addthisedge.com:443
+[2019-01-15 10:19:32] [Info] Disconnect su.addthis.com:443
+[2019-01-15 10:19:43] [Info] Connect m.addthis.com:443
+[2019-01-15 10:19:43] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:19:43] [Info] Direct connect hm.baidu.com:443
+[2019-01-15 10:19:45] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:19:45] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:19:46] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:19:46] [Info] Connect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:19:48] [Info] Connect static-clst.avgle.com:443
+[2019-01-15 10:19:52] [Info] Connect 10-81.s.cdn15.com:443
+[2019-01-15 10:19:53] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:19:53] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:20:04] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:20:09] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:20:15] [Info] Connect cdn.qooqlevideo.com:443
+[2019-01-15 10:20:18] [Info] Disconnect assets.258ydh.com:443
+[2019-01-15 10:20:20] [Info] Disconnect cdn.qooqlevideo.com:443
+[2019-01-15 10:20:22] [Info] Disconnect clients1.google.com:443
+[2019-01-15 10:20:24] [Info] Disconnect cdn.hivps.xyz:443
+[2019-01-15 10:20:25] [Info] Disconnect cililianbt.com:443
+[2019-01-15 10:20:25] [Info] Disconnect tapestry.tapad.com:443
+[2019-01-15 10:20:35] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:20:35] [Info] Disconnect static-clst.avgle.com:443
+[2019-01-15 10:20:40] [Info] Disconnect m.addthis.com:443
+[2019-01-15 10:20:40] [Info] Disconnect ip112034321.cdn.qooqlevideo.com:443
+[2019-01-15 10:20:40] [Info] Disconnect 10-81.s.cdn15.com:443
+[2019-01-15 10:47:22] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 10:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 10:47:23] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 10:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 11:47:22] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 11:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 11:47:23] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 11:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 11:56:42] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 11:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:43] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 11:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:43] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 11:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 11:56:44] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 11:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 11:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 11:56:45] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 11:56:45] [Error] connect to update server error
+[2019-01-15 12:47:33] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 12:47:34] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 12:47:35] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 12:47:35] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 13:47:22] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 13:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 13:47:23] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 13:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 13:56:42] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 13:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:43] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 13:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:43] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 13:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 13:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 13:56:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 13:56:44] [Error] connect to update server error
+[2019-01-15 14:47:22] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 14:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 14:47:23] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 14:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:11:20] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 15:11:20] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:11:29] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 15:11:29] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:11:30] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 15:11:30] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:12:12] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 15:12:12] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:47:21] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 15:47:22] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:47:23] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 15:47:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 15:56:42] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 15:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:42] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 15:56:42] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 15:56:42] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:42] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:43] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 15:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:43] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:43] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 15:56:44] [Debug] DNS query fail: raw.githubusercontent.com
+[2019-01-15 15:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:44] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 15:56:44] [Warn] Proxy server [45.76.191.160(45.76.191.160)] network unreachable
+[2019-01-15 15:56:44] [Info] Disconnect raw.githubusercontent.com:443
+[2019-01-15 15:56:44] [Error] connect to update server error
+[2019-01-15 16:11:23] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 16:11:23] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 16:11:36] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 16:11:36] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 16:11:36] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 16:11:36] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 16:12:16] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 16:12:16] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 16:47:33] [Info] Direct connect cloud.xmp.kankan.com:80
+[2019-01-15 16:47:34] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 16:47:35] [Info] Direct connect kkpgv3.xunlei.com:80
+[2019-01-15 16:47:35] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 122.143.5.5:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 17:11:20] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 17:11:20] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 17:11:31] [Info] Direct connect update.googleapis.com:443
+[2019-01-15 17:11:31] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 17:11:31] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 17:11:31] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 17:12:13] [Info] Direct connect update.googleapis.com:80
+[2019-01-15 17:12:13] [Error] System.Net.Sockets.SocketException (0x80004005): 向一个无法连接的网络尝试了一个套接字操作。 203.208.40.47:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2019-01-15 18:01:50] ShadowsocksR started on port 1080
+[2019-01-15 18:01:50] [Info] Connect ocsp.digicert.com:80
+[2019-01-15 18:01:51] [Info] Connect iecvlist.microsoft.com:443
+[2019-01-15 18:01:51] [Info] Connect iecvlist.microsoft.com:443
+[2019-01-15 18:01:51] [Info] Connect r20swj13mr.microsoft.com:443
+[2019-01-15 18:01:51] [Info] Connect www.ovvvo.me:443
+[2019-01-15 18:01:52] [Info] Connect cdp1.digicert.com:80
+[2019-01-15 18:01:52] [Info] Disconnect ocsp.digicert.com:80
+[2019-01-15 18:01:52] [Info] Disconnect r20swj13mr.microsoft.com:443
+[2019-01-15 18:01:52] [Info] Disconnect iecvlist.microsoft.com:443
+[2019-01-15 18:01:52] [Info] Disconnect iecvlist.microsoft.com:443
+[2019-01-15 18:01:53] [Info] Disconnect cdp1.digicert.com:80
+[2019-01-15 18:01:54] [Info] Disconnect www.ovvvo.me:443
+[2019-01-15 18:01:59] [Info] Direct connect click.ali213.net:80
+[2019-01-15 18:01:59] [Info] Connect raw.githubusercontent.com:443
+[2019-01-15 18:01:59] [Info] Direct connect p.37see.com:80
+[2019-01-15 18:02:00] [Info] Direct connect ss2.a.he2d.com:80
+[2019-01-15 18:02:00] [Info] Direct connect p.u2j2ha.com:80
+[2019-01-15 18:02:00] [Info] Direct connect p.u2j2ha.com:443
+[2019-01-15 18:02:01] [Error] connect to update server error
+[2019-01-15 18:02:01] [Info] Direct connect p.u2j2ha.com:443
+[2019-01-15 18:02:01] [Info] Direct connect p.u2j2ha.com:443
+[2019-01-15 18:02:01] [Info] Connect urs.microsoft.com:443
+[2019-01-15 18:02:01] [Info] Direct connect statuslogin.37.com:443
+[2019-01-15 18:02:02] [Info] Disconnect urs.microsoft.com:443
+[2019-01-15 18:02:02] [Info] Direct connect kwcdn.000dn.com:443
+[2019-01-15 18:02:02] [Info] Direct connect kwcdn.000dn.com:443
+[2019-01-15 18:02:02] [Info] Direct connect kwcdn.000dn.com:443
+[2019-01-15 18:02:03] [Info] Direct connect www.bing.com:443
+[2019-01-15 18:02:03] [Info] Direct connect www.bing.com:443
+[2019-01-15 18:02:03] [Info] Direct connect cm.he2d.com:443
+[2019-01-15 18:02:03] [Info] Direct connect log.he2d.com:443
+[2019-01-15 18:02:03] [Info] Direct connect log.he2d.com:443
+[2019-01-15 18:02:04] [Info] Direct connect cookiem.37.com:443

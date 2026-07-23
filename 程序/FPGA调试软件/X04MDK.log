@@ -1,0 +1,1091 @@
+[2021-06-10 11:43:34.463 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 11:43:34.463 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 11:43:34.465 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 11:43:34.885 INFO ]( SYS-10  ) err: lic invalid
+[2021-06-10 13:36:06.198 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 13:36:06.199 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 13:36:06.199 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:36:06.561 INFO ]( SYS-10  ) err: lic invalid
+[2021-06-10 13:37:17.049 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:37:17.375 INFO ]( SYS-10  ) err: lic invalid
+[2021-06-10 13:40:07.383 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:40:08.089 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:40:12.561 INFO ]( SYS-10  ) connect done
+[2021-06-10 13:40:12.561 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 13:40:12.561 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 13:40:13.062 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 13:40:13.062 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 13:40:13.063 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 13:40:13.065 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:40:13.066 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:40:13.066 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:40:13.067 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:40:13.067 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:40:13.069 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:41:04.020 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 13:41:04.020 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 13:41:04.021 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:41:04.529 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:41:04.530 INFO ]( SYS-10  ) connect done
+[2021-06-10 13:41:04.530 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 13:41:04.530 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 13:41:05.031 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 13:41:05.031 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 13:41:05.032 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 13:41:05.034 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:41:05.035 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:41:05.035 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:41:05.036 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:41:05.036 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:41:05.037 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:41:29.079 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:41:29.080 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:41:29.080 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:41:29.081 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:41:29.082 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:41:29.083 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:41:29.588 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:41:29.590 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:41:29.590 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:41:29.590 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:41:29.590 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:41:29.590 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:41:29.592 INFO ]( SYS-10  ) start time: 11025621394
+[2021-06-10 13:41:29.618 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:41:52.518 INFO ]( SYS-10  ) stop
+[2021-06-10 13:41:53.020 ERROR]( SYS-10  ) wait packet timeout, waiting opc: 02
+[2021-06-10 13:41:53.020 ERROR]( SYS-10  ) wait swrsp timeout, opc: 02, n: 22
+[2021-06-10 13:41:53.020 DEBUG]( SYS-10  ) sw stat (len=22, @012FC96C) <n=0>
+   0: 01 01 01 01 01 01 01 01  01 01 01 01 01 01 01 01
+  16: 01 01 01 01 01 01 
+[2021-06-10 13:42:20.919 ERROR]( SYS-10  ) dat handle timeout: local time: 25605, elapsed time: 51295, st: 9, last idx: 1
+[2021-06-10 13:42:20.919 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 3080
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5080
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5081
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5082
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5083
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5084
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5085
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5086
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5087
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5088
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5089
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508A
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508B
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508C
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508D
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508E
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 508F
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5090
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5091
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5092
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5093
+[2021-06-10 13:42:20.939 ERROR]( SYS-10  ) insert swrsp failed, opc unmatched, wanted: 14, read: 02, mid: 5094
+[2021-06-10 13:42:30.692 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:42:30.694 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:42:30.694 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:42:30.695 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:42:30.696 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:42:30.697 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:42:31.205 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:42:31.206 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:42:31.206 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:42:31.208 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:42:31.208 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:42:31.208 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:42:31.209 INFO ]( SYS-10  ) start time: 11087236898
+[2021-06-10 13:42:31.236 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:42:32.438 INFO ]( SYS-10  ) stop
+[2021-06-10 13:42:32.540 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:42:57.797 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:42:57.798 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:42:57.799 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:42:57.800 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:42:57.800 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:42:57.801 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:42:58.344 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:42:58.345 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:42:58.345 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:42:58.346 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:42:58.346 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:42:58.346 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:42:58.348 INFO ]( SYS-10  ) start time: 11114374273
+[2021-06-10 13:42:58.373 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:42:59.577 INFO ]( SYS-10  ) stop
+[2021-06-10 13:42:59.679 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:44:43.649 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:44:43.650 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:44:43.650 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:44:43.651 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:44:43.652 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:44:43.653 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:44:44.161 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:44:44.163 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:44:44.163 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:44:44.164 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:44:44.164 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:44:44.164 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:44:44.165 INFO ]( SYS-10  ) start time: 11220188890
+[2021-06-10 13:44:44.192 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:44:45.393 INFO ]( SYS-10  ) stop
+[2021-06-10 13:44:45.495 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:44:51.284 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:44:51.286 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:44:51.286 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:44:51.287 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:44:51.287 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:44:51.288 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:44:51.796 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:44:51.797 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:44:51.797 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:44:51.798 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:44:51.798 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:44:51.798 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:44:51.799 INFO ]( SYS-10  ) start time: 11227823640
+[2021-06-10 13:44:51.826 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:44:53.030 INFO ]( SYS-10  ) stop
+[2021-06-10 13:44:53.132 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:45:09.140 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:45:09.141 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:45:09.141 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:45:09.142 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:45:09.142 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:45:09.143 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:45:09.647 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:45:09.648 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:45:09.648 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:45:09.649 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:45:09.649 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:45:09.649 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:45:09.651 INFO ]( SYS-10  ) start time: 11245674631
+[2021-06-10 13:45:09.677 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:45:10.881 INFO ]( SYS-10  ) stop
+[2021-06-10 13:45:10.983 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:45:17.949 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:45:17.950 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:45:17.950 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:45:17.951 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:45:17.951 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:45:17.952 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:45:18.479 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:45:18.481 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:45:18.481 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:45:18.482 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:45:18.482 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:45:18.482 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:45:18.483 INFO ]( SYS-10  ) start time: 11254506870
+[2021-06-10 13:45:18.510 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:45:19.714 INFO ]( SYS-10  ) stop
+[2021-06-10 13:45:19.816 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:48:02.044 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 13:48:02.044 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 13:48:02.045 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:48:02.563 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:48:02.564 INFO ]( SYS-10  ) connect done
+[2021-06-10 13:48:02.564 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 13:48:02.564 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 13:48:03.065 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 13:48:03.065 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 13:48:03.066 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 13:48:03.068 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:48:03.069 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:48:03.069 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:48:03.070 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:48:03.070 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:48:03.071 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:48:09.590 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:48:09.591 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:48:09.591 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:48:09.592 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:48:09.592 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:48:09.594 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:48:10.097 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:48:10.098 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:48:10.099 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:48:10.100 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:48:10.100 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:48:10.100 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:48:10.101 INFO ]( SYS-10  ) start time: 11426120018
+[2021-06-10 13:48:10.128 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:48:11.331 INFO ]( SYS-10  ) stop
+[2021-06-10 13:48:11.433 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:16.893 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:50:16.894 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:50:16.894 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:50:16.895 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:50:16.895 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:50:16.896 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:50:17.403 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:50:17.404 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:50:17.404 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:50:17.406 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:50:17.406 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:50:17.406 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:50:17.407 INFO ]( SYS-10  ) start time: 11553422598
+[2021-06-10 13:50:17.433 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:50:18.637 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:18.739 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:25.317 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:50:25.318 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:50:25.318 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:50:25.319 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:50:25.320 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:50:25.321 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:50:25.824 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:50:25.826 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:50:25.826 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:50:25.827 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:50:25.827 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:50:25.827 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:50:25.828 INFO ]( SYS-10  ) start time: 11561843178
+[2021-06-10 13:50:25.855 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:50:26.939 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:26.940 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:27.042 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:27.143 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:39.284 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:50:39.285 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:50:39.285 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:50:39.286 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:50:39.286 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:50:39.287 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:50:39.790 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:50:39.792 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:50:39.792 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:50:39.793 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:50:39.793 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:50:39.793 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:50:39.794 INFO ]( SYS-10  ) start time: 11575809189
+[2021-06-10 13:50:39.821 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:50:40.171 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:40.172 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:40.273 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:40.375 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:48.005 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:50:48.006 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:50:48.006 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:50:48.007 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:50:48.007 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:50:48.009 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:50:48.512 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:50:48.513 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:50:48.513 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:50:48.514 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:50:48.514 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:50:48.514 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:50:48.516 INFO ]( SYS-10  ) start time: 11584530599
+[2021-06-10 13:50:48.542 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:50:48.859 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:48.861 INFO ]( SYS-10  ) stop
+[2021-06-10 13:50:48.961 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:50:49.063 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:52:09.484 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:52:09.485 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:52:09.485 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:52:09.487 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:52:09.487 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:52:09.488 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:52:09.996 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:52:09.997 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:52:09.997 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:52:09.998 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:52:09.998 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:52:09.998 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:52:10.000 INFO ]( SYS-10  ) start time: 11666011816
+[2021-06-10 13:52:10.026 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:52:10.531 INFO ]( SYS-10  ) stop
+[2021-06-10 13:52:10.532 INFO ]( SYS-10  ) stop
+[2021-06-10 13:52:10.633 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:52:10.735 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:52:19.005 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:52:19.006 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:52:19.006 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:52:19.008 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:52:19.008 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:52:19.009 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:52:19.511 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:52:19.513 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:52:19.513 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:52:19.514 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:52:19.514 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:52:19.514 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:52:19.515 INFO ]( SYS-10  ) start time: 11675527503
+[2021-06-10 13:52:19.542 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:52:19.875 INFO ]( SYS-10  ) stop
+[2021-06-10 13:52:19.876 INFO ]( SYS-10  ) stop
+[2021-06-10 13:52:19.977 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:52:20.079 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:54:03.173 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:54:03.174 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:54:03.174 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:54:03.175 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:54:03.175 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:54:03.176 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:54:03.680 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:54:03.682 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:54:03.682 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:54:03.683 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:54:03.683 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:54:03.683 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:54:03.684 INFO ]( SYS-10  ) start time: 11779693648
+[2021-06-10 13:54:03.711 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:54:05.452 INFO ]( SYS-10  ) stop
+[2021-06-10 13:54:05.453 INFO ]( SYS-10  ) stop
+[2021-06-10 13:54:05.553 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:54:05.655 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:56:26.865 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 13:56:26.865 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 13:56:26.865 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 13:56:27.374 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:56:27.375 INFO ]( SYS-10  ) connect done
+[2021-06-10 13:56:27.375 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 13:56:27.375 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 13:56:27.875 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 13:56:27.875 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 13:56:27.876 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 13:56:27.878 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:56:27.879 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:56:27.879 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:56:27.880 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:56:27.880 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:56:27.881 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:56:43.094 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:56:43.095 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:56:43.095 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:56:43.096 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:56:43.096 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:56:43.098 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:56:43.600 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:56:43.601 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:56:43.601 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:56:43.602 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:56:43.602 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:56:43.602 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:56:43.604 INFO ]( SYS-10  ) start time: 11939608977
+[2021-06-10 13:56:43.630 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:56:44.834 INFO ]( SYS-10  ) stop
+[2021-06-10 13:56:44.936 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:56:46.813 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:56:46.814 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:56:46.814 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:56:46.815 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:56:46.815 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:56:46.817 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:56:47.001 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:56:47.003 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:56:47.003 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:56:47.004 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:56:47.004 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:56:47.004 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:56:47.005 INFO ]( SYS-10  ) start time: 11943010290
+[2021-06-10 13:56:47.032 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:56:48.236 INFO ]( SYS-10  ) stop
+[2021-06-10 13:56:48.338 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:56:52.750 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:56:52.751 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:56:52.751 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:56:52.752 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:56:52.752 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:56:52.753 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:56:53.257 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:56:53.258 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:56:53.258 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:56:53.259 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:56:53.259 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:56:53.259 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:56:53.261 INFO ]( SYS-10  ) start time: 11949265858
+[2021-06-10 13:56:53.287 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:56:54.652 INFO ]( SYS-10  ) stop
+[2021-06-10 13:56:54.654 INFO ]( SYS-10  ) stop
+[2021-06-10 13:56:54.753 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:56:54.855 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:57:01.949 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:57:01.950 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:57:01.950 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:57:01.951 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:57:01.951 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:57:01.952 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:57:02.457 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:57:02.459 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:57:02.459 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:57:02.460 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:57:02.460 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:57:02.460 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:57:02.461 INFO ]( SYS-10  ) start time: 11958465541
+[2021-06-10 13:57:02.488 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:57:04.444 INFO ]( SYS-10  ) stop
+[2021-06-10 13:57:04.445 INFO ]( SYS-10  ) stop
+[2021-06-10 13:57:04.545 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:57:04.647 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:57:08.781 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:57:08.782 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:57:08.782 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:57:08.783 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:57:08.783 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:57:08.785 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:57:08.968 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:57:08.969 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:57:08.969 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:57:08.970 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:57:08.970 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:57:08.970 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:57:08.972 INFO ]( SYS-10  ) start time: 11964976450
+[2021-06-10 13:57:08.998 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:57:13.723 INFO ]( SYS-10  ) stop
+[2021-06-10 13:57:13.724 INFO ]( SYS-10  ) stop
+[2021-06-10 13:57:13.826 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:57:13.927 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:58:43.037 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 13:58:43.038 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 13:58:43.038 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 13:58:43.039 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 13:58:43.039 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 13:58:43.040 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) lic valid
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 13:58:43.547 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 13:58:43.549 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 13:58:43.549 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 13:58:43.550 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 13:58:43.550 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 13:58:43.550 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 13:58:43.551 INFO ]( SYS-10  ) start time: 12059552494
+[2021-06-10 13:58:43.577 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 13:58:53.908 INFO ]( SYS-10  ) stop
+[2021-06-10 13:58:53.910 INFO ]( SYS-10  ) stop
+[2021-06-10 13:58:54.011 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 13:58:54.112 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:01:28.077 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:01:28.078 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:01:28.078 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:01:28.079 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:01:28.079 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:01:28.081 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:01:28.584 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:01:28.586 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:01:28.586 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:01:28.587 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:01:28.587 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:01:28.587 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:01:28.588 INFO ]( SYS-10  ) start time: 12224585871
+[2021-06-10 14:01:28.615 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:01:28.707 INFO ]( SYS-10  ) stop
+[2021-06-10 14:01:28.708 INFO ]( SYS-10  ) stop
+[2021-06-10 14:01:28.810 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:01:28.911 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:04:16.172 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:04:16.174 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:04:16.174 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:04:16.175 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:04:16.175 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:04:16.176 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:04:16.684 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:04:16.686 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:04:16.686 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:04:16.687 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:04:16.687 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:04:16.687 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:04:16.688 INFO ]( SYS-10  ) start time: 12392681129
+[2021-06-10 14:04:16.715 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:04:17.917 INFO ]( SYS-10  ) stop
+[2021-06-10 14:04:18.018 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:04:21.509 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:04:21.510 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:04:21.510 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:04:21.511 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:04:21.511 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:04:21.512 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:04:21.698 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:04:21.699 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:04:21.699 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:04:21.700 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:04:21.700 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:04:21.700 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:04:21.702 INFO ]( SYS-10  ) start time: 12397694110
+[2021-06-10 14:04:21.728 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:04:33.387 INFO ]( SYS-10  ) stop
+[2021-06-10 14:04:33.388 INFO ]( SYS-10  ) stop
+[2021-06-10 14:04:33.490 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:04:33.592 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:04:58.980 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:04:58.982 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:04:58.982 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:04:58.983 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:04:58.983 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:04:58.984 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:04:59.488 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:04:59.489 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:04:59.489 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:04:59.490 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:04:59.491 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:04:59.491 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:04:59.492 INFO ]( SYS-10  ) start time: 12435483383
+[2021-06-10 14:04:59.518 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:05:00.721 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:00.823 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:05.340 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:05:05.342 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:05:05.342 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:05:05.343 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:05:05.343 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:05:05.344 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:05:05.530 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:05:05.531 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:05:05.531 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:05:05.532 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:05:05.532 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:05:05.532 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:05:05.533 INFO ]( SYS-10  ) start time: 12441524756
+[2021-06-10 14:05:05.560 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:05:06.763 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:06.865 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:10.669 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:05:10.670 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:05:10.670 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:05:10.672 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:05:10.672 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:05:10.673 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:05:11.177 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:05:11.178 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:05:11.179 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:05:11.179 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:05:11.180 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:05:11.180 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:05:11.180 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:05:11.181 INFO ]( SYS-10  ) start time: 12447172199
+[2021-06-10 14:05:11.207 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:05:11.716 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:11.718 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:11.818 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:11.920 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:20.685 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:05:20.686 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:05:20.686 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:05:20.687 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:05:20.688 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:05:20.689 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:05:21.193 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:05:21.194 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:05:21.194 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:05:21.195 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:05:21.195 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:05:21.195 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:05:21.196 INFO ]( SYS-10  ) start time: 12457187352
+[2021-06-10 14:05:21.223 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:05:22.426 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:22.528 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:29.013 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:05:29.014 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:05:29.014 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:05:29.015 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:05:29.015 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:05:29.017 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:05:29.520 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:05:29.521 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:05:29.522 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:05:29.523 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:05:29.523 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:05:29.523 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:05:29.524 INFO ]( SYS-10  ) start time: 12465514520
+[2021-06-10 14:05:29.549 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:05:30.252 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:30.253 INFO ]( SYS-10  ) stop
+[2021-06-10 14:05:30.354 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:05:30.456 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:06:38.693 INFO ]( SYS-10  ) set inttime, time: 3000, offset: 0
+[2021-06-10 14:06:38.695 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:06:38.695 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:06:38.696 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:06:38.696 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:06:38.697 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:06:39.200 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:06:39.201 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:06:39.201 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:06:39.202 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:06:39.203 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:06:39.203 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:06:39.204 INFO ]( SYS-10  ) start time: 12535193193
+[2021-06-10 14:06:39.230 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:06:52.612 INFO ]( SYS-10  ) stop
+[2021-06-10 14:06:52.613 INFO ]( SYS-10  ) stop
+[2021-06-10 14:06:52.714 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:06:52.816 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:16:24.337 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 14:16:24.337 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 14:16:24.338 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 14:16:24.852 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:16:24.853 INFO ]( SYS-10  ) connect done
+[2021-06-10 14:16:24.853 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 14:16:24.853 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 14:16:25.354 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 14:16:25.354 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 14:16:25.355 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 14:16:25.357 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:16:25.358 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:16:25.358 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:16:25.359 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:16:25.359 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:16:25.361 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:16:38.327 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:16:38.328 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:16:38.328 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:16:38.330 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:16:38.330 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:16:38.331 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:16:38.833 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:16:38.846 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:16:38.846 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:16:38.847 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:16:38.847 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:16:38.847 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:16:38.848 INFO ]( SYS-10  ) start time: 13134821548
+[2021-06-10 14:16:38.871 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:16:39.355 INFO ]( SYS-10  ) stop
+[2021-06-10 14:16:39.456 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:16:52.293 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:16:52.295 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:16:52.295 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:16:52.296 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:16:52.296 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:16:52.297 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:16:52.801 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:16:52.803 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:16:52.803 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:16:52.804 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:16:52.804 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:16:52.804 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:16:52.805 INFO ]( SYS-10  ) start time: 13148778046
+[2021-06-10 14:16:52.828 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:16:53.312 INFO ]( SYS-10  ) stop
+[2021-06-10 14:16:53.412 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:16:56.358 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:16:56.359 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:16:56.359 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:16:56.360 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:16:56.360 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:16:56.361 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:16:56.546 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:16:56.547 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:16:56.547 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:16:56.549 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:16:56.549 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:16:56.549 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:16:56.550 INFO ]( SYS-10  ) start time: 13152522661
+[2021-06-10 14:16:56.573 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:17:05.812 INFO ]( SYS-10  ) stop
+[2021-06-10 14:17:05.813 INFO ]( SYS-10  ) stop
+[2021-06-10 14:17:05.914 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:17:06.016 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:26:11.430 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:26:11.431 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:26:11.431 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:26:11.433 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:26:11.433 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:26:11.434 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:26:11.940 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:26:11.941 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:26:11.941 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:26:11.942 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:26:11.942 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:26:11.942 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:26:11.944 INFO ]( SYS-10  ) start time: 13707901807
+[2021-06-10 14:26:11.966 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:27:17.581 INFO ]( SYS-10  ) stop
+[2021-06-10 14:27:17.618 ERROR]( SYS-10  ) dat handle timeout: local time: 587632, elapsed time: 65649, st: 9, last idx: 1
+[2021-06-10 14:27:17.875 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:27:41.630 INFO ]( SYS-10  ) set inttime, time: 1200, offset: 0
+[2021-06-10 14:27:41.632 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:27:41.632 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:27:41.633 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:27:41.633 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:27:41.634 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:27:42.140 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:27:42.142 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:27:42.142 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:27:42.143 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:27:42.143 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:27:42.143 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:27:42.144 INFO ]( SYS-10  ) start time: 13798099277
+[2021-06-10 14:27:42.167 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:28:02.145 INFO ]( SYS-10  ) stop
+[2021-06-10 14:28:02.247 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:35:05.407 INFO ]( SYS-13  ) ~~~~~~~~~~~~~~~~~~~~~~  Welcome  ~~~~~~~~~~~~~~~~~~~~~~
+[2021-06-10 14:35:05.407 INFO ]( SYS-20  ) X04MDK ( Version 1.0.0.1 ) Copyright (C) 2012 XNDT Tech Inc. < Feb 21 2021 22:29:35 >
+[2021-06-10 14:35:05.408 INFO ]( SYS-10  ) create device: XNDT_04_TCP
+[2021-06-10 14:35:05.908 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:35:05.909 INFO ]( SYS-10  ) connect done
+[2021-06-10 14:35:05.909 INFO ]( SYS-10  ) socket addr: 192.168.2.200:26215
+[2021-06-10 14:35:05.909 INFO ]( SYS-10  ) adapter stat changed, 0 -> 1
+[2021-06-10 14:35:06.410 INFO ]( SYS-10  ) top: n: 22, ndb: 1, nab: 21
+[2021-06-10 14:35:06.410 INFO ]( SYS-10  ) send packet done, opc: 05
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 3080, ver: 20272, date: 2019-06-25, sn: 16106BF2, type: 0000
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5080, ver: 10272, date: 2019-06-25, sn: 16103816, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5081, ver: 10272, date: 2019-06-25, sn: 16103856, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5082, ver: 10272, date: 2019-06-25, sn: 161037F7, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5083, ver: 10272, date: 2019-06-25, sn: 16103848, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5084, ver: 10272, date: 2019-06-25, sn: 16101F8C, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5085, ver: 10272, date: 2019-06-25, sn: 16103828, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5086, ver: 10272, date: 2019-06-25, sn: 16103818, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5087, ver: 10272, date: 2019-06-25, sn: 16101F49, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5088, ver: 10272, date: 2019-06-25, sn: 161037F4, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5089, ver: 10272, date: 2019-06-25, sn: 1610383D, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508A, ver: 10272, date: 2019-06-25, sn: 16103851, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508B, ver: 10272, date: 2019-06-25, sn: 16103805, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508C, ver: 10272, date: 2019-06-25, sn: 161037FC, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508D, ver: 10272, date: 2019-06-25, sn: 161037DD, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508E, ver: 10272, date: 2019-06-25, sn: 161037F5, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 508F, ver: 10272, date: 2019-06-25, sn: 161037F6, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5090, ver: 10272, date: 2019-06-25, sn: 16103815, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5091, ver: 10272, date: 2019-06-25, sn: 161037E0, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5092, ver: 10272, date: 2019-06-25, sn: 161037DE, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5093, ver: 10272, date: 2019-06-25, sn: 1610384F, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) module info, mid: 5094, ver: 10272, date: 2019-06-25, sn: 16103850, type: 0101
+[2021-06-10 14:35:06.411 INFO ]( SYS-10  ) send packet done, opc: 10
+[2021-06-10 14:35:06.413 INFO ]( SYS-10  ) set inttime, time: 1000, offset: 0
+[2021-06-10 14:35:06.414 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:35:06.414 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:35:06.415 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:35:06.416 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:35:06.417 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:35:09.617 INFO ]( SYS-10  ) set inttime, time: 1000, offset: 0
+[2021-06-10 14:35:09.618 INFO ]( SYS-10  ) send packet done, opc: 21
+[2021-06-10 14:35:09.618 INFO ]( SYS-10  ) set subsample: 1
+[2021-06-10 14:35:09.619 INFO ]( SYS-10  ) send packet done, opc: 22
+[2021-06-10 14:35:09.619 INFO ]( SYS-10  ) set gain, mid: FFFF, cid: FFFF, gain: 0
+[2021-06-10 14:35:09.621 INFO ]( SYS-10  ) send packet done, opc: 20
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) lic valid
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) module num: 21(21), module width: 64, pixel width: 2500
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) binning: 1 x 1
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) image setting: 1344 x 1 x 2
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) set modulenum: 21
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) send packet done, opc: D1
+[2021-06-10 14:35:09.806 INFO ]( SYS-10  ) set samplebit: 0
+[2021-06-10 14:35:09.807 INFO ]( SYS-10  ) send packet done, opc: 23
+[2021-06-10 14:35:09.807 INFO ]( SYS-10  ) set caliben: 0
+[2021-06-10 14:35:09.808 INFO ]( SYS-10  ) send packet done, opc: 25
+[2021-06-10 14:35:09.808 INFO ]( SYS-10  ) start, mode: 0
+[2021-06-10 14:35:09.808 INFO ]( SYS-10  ) send packet done, opc: 01
+[2021-06-10 14:35:09.810 INFO ]( SYS-10  ) start time: 14245752847
+[2021-06-10 14:35:09.832 INFO ]( SYS-10  ) got pkt, idx: 0, len: 2688
+[2021-06-10 14:35:13.893 INFO ]( SYS-10  ) stop
+[2021-06-10 14:35:13.894 INFO ]( SYS-10  ) stop
+[2021-06-10 14:35:13.994 INFO ]( SYS-10  ) send packet done, opc: 02
+[2021-06-10 14:35:14.096 INFO ]( SYS-10  ) send packet done, opc: 02

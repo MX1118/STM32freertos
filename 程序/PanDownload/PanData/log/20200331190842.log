@@ -1,0 +1,14 @@
+2020-03-31 19:08:42 [INFO] pandownload version: 2.2.2
+2020-03-31 19:09:04 [INFO] aria2 websocket connection opened (127.0.0.1:36871)
+2020-03-31 19:09:04 [INFO] aria2 version: 1.35.1
+2020-03-31 19:09:04 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36871/jsonrpc
+2020-03-31 19:09:08 [INFO] create main window
+2020-03-31 19:09:30 [INFO] verify cookie (634)
+2020-03-31 19:09:34 [INFO] user login success (2855328188): 悲催安全
+2020-03-31 19:10:41 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-03-31 19:11:12 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-03-31 19:11:34 [WARN] ID#1 - No URI available.(22) FILE="E:/multisim14.2/ni-multisim_14.2.0_offline.iso" SIZE="920307712"
+2020-03-31 19:16:15 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-03-31 19:16:50 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-03-31 19:17:24 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-03-31 19:24:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 

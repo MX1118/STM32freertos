@@ -1,0 +1,477 @@
+[2019-06-08 14:43:49] ShadowsocksR started on port 1080
+[2019-06-08 14:43:54] [Info] Direct connect cn.bing.com:443
+[2019-06-08 14:43:54] [Info] Direct connect cn.bing.com:443
+[2019-06-08 14:43:54] [Info] Connect lncn.org:443
+[2019-06-08 14:43:55] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:43:58] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:43:58] [Info] Connect lncn.org:443
+[2019-06-08 14:44:00] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:00] [Info] Connect lncn.org:443
+[2019-06-08 14:44:01] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:02] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:02] [Info] Disconnect lncn.org:443
+[2019-06-08 14:44:05] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:06] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:11] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:44:11] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:13] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:13] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:15] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:15] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:19] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:19] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:44:19] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:21] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:21] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:23] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:23] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:25] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:25] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:44:25] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:27] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:27] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:29] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:29] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:44:31] [Info] Direct connect swcatalog.apple.com:443
+[2019-06-08 14:44:31] [Warn] Proxy server [新加坡A(194.124.35.169)] connection refused
+[2019-06-08 14:44:31] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:44:31] [Error] connect to update server error
+[2019-06-08 14:44:54] [Info] Direct connect swdist.apple.com:443
+[2019-06-08 14:47:43] ShadowsocksR started on port 1080
+[2019-06-08 14:47:53] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:47:57] [Error] connect to update server error
+[2019-06-08 14:48:08] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:49:29] [Info] Connect lncn.org:443
+[2019-06-08 14:49:29] [Info] Direct connect cn.bing.com:443
+[2019-06-08 14:49:30] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:30] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-06-08 14:49:30] [Info] Connect lncn.org:443
+[2019-06-08 14:49:30] [Info] Connect lncn.org:443
+[2019-06-08 14:49:30] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-08 14:49:30] [Info] Connect lncn.org:443
+[2019-06-08 14:49:30] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Connect lncn.org:443
+[2019-06-08 14:49:31] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:31] [Info] Direct connect www.google-analytics.com:443
+[2019-06-08 14:49:31] [Info] Direct connect adservice.google.com:443
+[2019-06-08 14:49:32] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:49:32] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:49:33] [Info] Direct connect www.googletagservices.com:443
+[2019-06-08 14:49:33] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:49:33] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:49:33] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:49:34] [Info] Direct connect www.googletagservices.com:443
+[2019-06-08 14:49:34] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:34] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:34] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:34] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:34] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:34] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:35] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:35] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:35] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:35] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:35] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:35] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:35] [Info] Direct connect www.googletagservices.com:443
+[2019-06-08 14:49:35] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:49:35] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:35] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:35] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:35] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:35] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:35] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-08 14:49:35] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:36] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-08 14:49:36] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:36] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:36] [Info] Connect beacon.walmart.com:443
+[2019-06-08 14:49:36] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:36] [Info] Connect odr.mookie1.com:443
+[2019-06-08 14:49:36] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:37] [Info] Connect lncn.org:443
+[2019-06-08 14:49:37] [Info] Connect rtb.openx.net:443
+[2019-06-08 14:49:37] [Info] Direct connect cm.g.doubleclick.net:443
+[2019-06-08 14:49:37] [Info] Disconnect lncn.org:443
+[2019-06-08 14:49:37] [Info] Connect urs.microsoft.com:443
+[2019-06-08 14:49:37] [Info] Connect fcmatch.google.com:443
+[2019-06-08 14:49:37] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:38] [Info] Connect fcmatch.youtube.com:443
+[2019-06-08 14:49:38] [Info] Disconnect urs.microsoft.com:443
+[2019-06-08 14:49:46] [Info] Connect t.urs.microsoft.com:443
+[2019-06-08 14:49:47] [Info] Disconnect t.urs.microsoft.com:443
+[2019-06-08 14:50:38] [Info] Disconnect lncn.org:443
+[2019-06-08 14:50:42] [Info] Disconnect odr.mookie1.com:443
+[2019-06-08 14:51:27] [Info] Connect www.google.com:443
+[2019-06-08 14:51:27] [Info] Direct connect clientservices.googleapis.com:443
+[2019-06-08 14:51:27] [Info] Direct connect ssl.gstatic.com:443
+[2019-06-08 14:51:27] [Info] Direct connect ssl.gstatic.com:443
+[2019-06-08 14:51:27] [Info] Connect accounts.google.com:443
+[2019-06-08 14:51:27] [Info] Connect www.google.co.in:443
+[2019-06-08 14:51:29] [Info] Disconnect fcmatch.youtube.com:443
+[2019-06-08 14:51:29] [Info] Disconnect fcmatch.google.com:443
+[2019-06-08 14:51:29] [Info] Disconnect rtb.openx.net:443
+[2019-06-08 14:51:29] [Info] Disconnect beacon.walmart.com:443
+[2019-06-08 14:51:38] [Info] Disconnect www.google.co.in:443
+[2019-06-08 14:51:54] [Info] Direct connect www.gstatic.com:80
+[2019-06-08 14:51:54] [Info] Connect www.google.co.jp:443
+[2019-06-08 14:52:02] [Info] Connect lncn.org:443
+[2019-06-08 14:52:02] [Info] Connect lncn.org:443
+[2019-06-08 14:52:02] [Info] Connect clients2.google.com:443
+[2019-06-08 14:52:03] [Info] Disconnect clients2.google.com:443
+[2019-06-08 14:52:03] [Info] Direct connect pagead2.googlesyndication.com:443
+[2019-06-08 14:52:03] [Info] Direct connect www.googletagmanager.com:443
+[2019-06-08 14:52:05] [Info] Disconnect www.google.co.jp:443
+[2019-06-08 14:52:05] [Info] Direct connect adservice.google.com:443
+[2019-06-08 14:52:05] [Info] Direct connect googleads.g.doubleclick.net:443
+[2019-06-08 14:52:05] [Info] Direct connect www.google-analytics.com:443
+[2019-06-08 14:52:07] [Info] Direct connect www.googletagservices.com:443
+[2019-06-08 14:52:08] [Info] Direct connect tpc.googlesyndication.com:443
+[2019-06-08 14:52:08] [Info] Direct connect cdn.ampproject.org:443
+[2019-06-08 14:52:08] [Info] Direct connect cdn.ampproject.org:443
+[2019-06-08 14:52:08] [Info] Direct connect fonts.googleapis.com:443
+[2019-06-08 14:52:08] [Info] Direct connect cdn.ampproject.org:443
+[2019-06-08 14:52:09] [Info] Direct connect fonts.gstatic.com:443
+[2019-06-08 14:52:16] [Info] Direct connect www.gstatic.com:443
+[2019-06-08 14:52:36] [Info] Connect clients2.google.com:443
+[2019-06-08 14:52:36] [Info] Disconnect lncn.org:443
+[2019-06-08 14:52:38] [Info] Connect clients2.googleusercontent.com:443
+[2019-06-08 14:52:40] [Info] Disconnect lncn.org:443
+[2019-06-08 14:52:40] [Info] Disconnect accounts.google.com:443
+[2019-06-08 14:52:40] [Info] Disconnect clients2.googleusercontent.com:443
+[2019-06-08 14:52:40] [Info] Disconnect clients2.google.com:443
+[2019-06-08 14:52:40] [Info] Disconnect www.google.com:443
+[2019-06-08 14:52:53] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:53:28] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 14:53:33] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2019-06-08 14:53:48] [Error] connect to update server error
+[2019-06-08 14:55:28] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:55:28] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 14:59:40] [Info] Connect www.google.com.hk:80
+[2019-06-08 14:59:40] [Info] Connect www.google.com.hk:80
+[2019-06-08 14:59:41] [Info] Connect www.google.com.hk:443
+[2019-06-08 14:59:41] [Info] Disconnect www.google.com.hk:80
+[2019-06-08 14:59:42] [Info] Connect www.google.com:443
+[2019-06-08 14:59:42] [Info] Connect www.google.com.hk:443
+[2019-06-08 14:59:42] [Info] Connect www.google.com.hk:443
+[2019-06-08 14:59:43] [Info] Disconnect www.google.com.hk:80
+[2019-06-08 14:59:43] [Info] Direct connect www.gstatic.com:443
+[2019-06-08 14:59:45] [Info] Connect apis.google.com:443
+[2019-06-08 14:59:45] [Info] Connect ogs.google.com:443
+[2019-06-08 14:59:51] [Info] Disconnect apis.google.com:443
+[2019-06-08 14:59:51] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 14:59:52] [Info] Connect consent.google.com:443
+[2019-06-08 14:59:52] [Info] Connect id.google.com.hk:443
+[2019-06-08 14:59:53] [Info] Connect id.google.com:443
+[2019-06-08 14:59:54] [Info] Connect apis.google.com:443
+[2019-06-08 15:00:02] [Info] Connect www.google.com.hk:443
+[2019-06-08 15:00:02] [Info] Connect www.google.com.hk:443
+[2019-06-08 15:00:02] [Info] Connect www.google.com.hk:443
+[2019-06-08 15:00:02] [Info] Connect www.google.com.hk:443
+[2019-06-08 15:00:05] [Info] Connect adservice.google.com.hk:443
+[2019-06-08 15:00:09] [Info] Direct connect adservice.google.com:443
+[2019-06-08 15:00:11] [Info] Disconnect www.google.com:443
+[2019-06-08 15:00:27] [Info] Connect avgle.com:80
+[2019-06-08 15:00:28] [Info] Connect avgle.com:443
+[2019-06-08 15:00:28] [Info] Disconnect avgle.com:80
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:29] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Disconnect apis.google.com:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect id.google.com:443
+[2019-06-08 15:00:30] [Info] Disconnect consent.google.com:443
+[2019-06-08 15:00:30] [Info] Disconnect ogs.google.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect id.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect adservice.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Disconnect www.google.com.hk:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:30] [Info] Connect avgle.com:443
+[2019-06-08 15:00:31] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:32] [Info] Connect static-clst.avgle.com:443
+[2019-06-08 15:00:32] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect static-clst.avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:00:52] [Info] Disconnect avgle.com:443
+[2019-06-08 15:56:10] ShadowsocksR started on port 1080
+[2019-06-08 15:56:17] [Info] Connect accounts.google.com:443
+[2019-06-08 15:56:17] [Info] Connect www.google.com:443
+[2019-06-08 15:56:18] [Info] Connect clients1.google.com:443
+[2019-06-08 15:56:20] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 15:56:21] [Error] connect to update server error
+[2019-06-08 15:58:01] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 15:58:23] [Info] Disconnect accounts.google.com:443
+[2019-06-08 15:58:26] [Info] Disconnect clients1.google.com:443
+[2019-06-08 15:59:20] [Info] Disconnect www.google.com:443
+[2019-06-08 16:01:19] [Info] Connect raw.githubusercontent.com:443
+[2019-06-08 16:01:21] [Error] connect to update server error
+[2019-06-08 16:03:01] [Info] Disconnect raw.githubusercontent.com:443
+[2019-06-08 16:03:02] [Info] Connect www.google.com:443
+[2019-06-08 16:03:06] [Info] Connect www.google.com:443
+[2019-06-08 16:03:10] [Info] Direct connect www.gstatic.com:443
+[2019-06-08 16:03:12] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:03:12] [Info] Connect apis.google.com:443
+[2019-06-08 16:03:13] [Info] Disconnect www.google.com:443
+[2019-06-08 16:03:15] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:15] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:15] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:16] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:16] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:16] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:16] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:16] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:18] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:03:18] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:03:27] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:27] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:28] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:28] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:28] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:28] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:32] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:03:35] [Info] Connect clients4.google.com:443
+[2019-06-08 16:03:38] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:38] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:38] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:39] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:40] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:03:41] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:03:45] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:03:45] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:03:45] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:03:45] [Info] Connect clients1.google.com:443
+[2019-06-08 16:03:46] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:03:51] [Info] Connect translate.google.com:443
+[2019-06-08 16:03:52] [Info] Connect ew.phncdn.com:443
+[2019-06-08 16:03:53] [Info] Connect cv.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:55] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:03:57] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:03:58] [Info] Connect cdn1-smallimg.phncdn.com:443
+[2019-06-08 16:04:00] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:04:00] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:04:02] [Info] Disconnect cdn1-smallimg.phncdn.com:443
+[2019-06-08 16:04:06] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:04:07] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:04:07] [Info] Disconnect cdn1d-static-shared.phncdn.com:443
+[2019-06-08 16:04:08] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:08] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:08] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:08] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:09] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:09] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:04:28] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:04:43] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:05:01] [Info] Connect jp.pornhub.com:443
+[2019-06-08 16:05:06] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:06] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:06] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:06] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:07] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:05:12] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:05:14] [Info] Disconnect apis.google.com:443
+[2019-06-08 16:05:16] [Info] Disconnect jp.pornhub.com:443
+[2019-06-08 16:05:17] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:17] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:05:17] [Info] Connect jp.pornhub.com:443
+[2019-06-08 16:05:17] [Info] Connect jp.pornhub.com:443
+[2019-06-08 16:05:17] [Info] Connect jp.pornhub.com:443
+[2019-06-08 16:05:17] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:17] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:18] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:19] [Info] Disconnect www.google.com:443
+[2019-06-08 16:05:22] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:05:22] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:05:25] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:05:31] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:33] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:05:37] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:05:41] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:05:41] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:05:43] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:05:43] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:05:44] [Info] Disconnect clients4.google.com:443
+[2019-06-08 16:05:46] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:05:50] [Info] Disconnect jp.pornhub.com:443
+[2019-06-08 16:05:50] [Info] Disconnect jp.pornhub.com:443
+[2019-06-08 16:05:50] [Info] Disconnect jp.pornhub.com:443
+[2019-06-08 16:05:50] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:52] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:53] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:53] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:53] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:05:55] [Info] Disconnect translate.google.com:443
+[2019-06-08 16:05:58] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:05:58] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:17] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:06:21] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:06:23] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:06:24] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:24] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:24] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:06:24] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:06:28] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:06:30] [Info] Connect translate.google.com:443
+[2019-06-08 16:06:31] [Info] Connect translate.google.com:443
+[2019-06-08 16:06:31] [Info] Disconnect ew.phncdn.com:443
+[2019-06-08 16:06:33] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:06:33] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:06:33] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:06:33] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:06:35] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:35] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:06:35] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:35] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:35] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:06:35] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:37] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:06:41] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:06:41] [Info] Disconnect translate.google.com:443
+[2019-06-08 16:06:48] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:06:50] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:06:50] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:51] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:52] [Info] Disconnect cv.phncdn.com:443
+[2019-06-08 16:06:53] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:06:53] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:06:54] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:06:54] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:06:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:06:55] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:06:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:06:55] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:07:04] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:07:06] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:07:06] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:07:18] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:07:18] [Info] Disconnect clients1.google.com:443
+[2019-06-08 16:07:20] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:07:23] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:07:24] [Info] Connect dv.phncdn.com:443
+[2019-06-08 16:07:26] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:07:26] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:07:26] [Info] Connect clients1.google.com:443
+[2019-06-08 16:07:26] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:07:31] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:07:35] [Info] Disconnect dv.phncdn.com:443
+[2019-06-08 16:07:38] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:07:39] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:07:54] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:08:01] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:08:05] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:08:13] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:08:15] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:08:19] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:08:30] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:08:31] [Info] Disconnect cs.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:08:35] [Info] Connect ci.phncdn.com:443
+[2019-06-08 16:08:37] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:08:37] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:08:37] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:08:37] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:08:44] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:08:44] [Info] Connect di.phncdn.com:443
+[2019-06-08 16:08:44] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:08:52] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:08:56] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:08:56] [Info] Disconnect di.phncdn.com:443
+[2019-06-08 16:08:57] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:08:58] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:09:00] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:09:06] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:09:18] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:09:19] [Info] Connect www.pornhub.com:443
+[2019-06-08 16:09:19] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:09:21] [Info] Connect hubt.pornhub.com:443
+[2019-06-08 16:09:21] [Info] Disconnect ci.phncdn.com:443
+[2019-06-08 16:09:26] [Info] Disconnect hubt.pornhub.com:443
+[2019-06-08 16:09:27] [Info] Disconnect translate.google.com:443
+[2019-06-08 16:09:27] [Info] Disconnect www.pornhub.com:443
+[2019-06-08 16:09:27] [Info] Disconnect clients1.google.com:443
+[2019-06-09 16:50:34] ShadowsocksR started on port 1080
+[2019-06-09 17:51:56] ShadowsocksR started on port 1080

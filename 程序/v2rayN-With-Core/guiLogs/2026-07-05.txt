@@ -1,0 +1,9 @@
+2026-07-05 21:58:02.7432-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Administrator\Desktop\程序\v2rayN-With-Core\v2rayN.exe
+2026-07-05 21:59:03.4622-INFO UpdateTaskRunSubscription
+2026-07-05 22:00:03.4615-INFO UpdateTaskRunGeo
+2026-07-05 22:26:09.8453-INFO Current_SessionEnding
+2026-07-05 22:26:09.8453-INFO MyAppExit Begin
+2026-07-05 22:26:10.1254-INFO MyAppExit End
+2026-07-05 22:40:13.2854-INFO v2rayN start up | v2rayN - V6.23 - 2023/04/21 | C:\Users\Administrator\Desktop\程序\v2rayN-With-Core\v2rayN.exe
+2026-07-05 22:41:14.0509-INFO UpdateTaskRunSubscription
+2026-07-05 22:42:14.0596-INFO UpdateTaskRunGeo
